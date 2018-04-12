@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003599</dcterms:identifier>
+    <dcterms:title>A geological map of the copper region embraced in the counties of Floyd, Carroll &amp; Grayson, Va., and Ashe &amp; Alleghany, N.C., 1859</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Currey, Richard O. (Richard Owen)</dcterms:creator>
+    <dcterms:created>1859</dcterms:created>
+    <dcterms:extent>1 map : col. ; 47 x 35 cm. on sheet 56 x 37 cm.</dcterms:extent>
+    <dcterms:publisher>Geological Survey of Kentucky</dcterms:publisher>
+    <dcterms:subject>Copper mines and mining</dcterms:subject>
+    <dcterms:subject>Copper mines and mining</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Tennessee</dcterms:spatial>
+    <dcterms:spatial>Knoxville</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003599/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003599</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904873/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

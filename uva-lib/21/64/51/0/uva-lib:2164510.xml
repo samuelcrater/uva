@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2164510</dcterms:identifier>
+    <dcterms:title>Queen Margrethe II of Denmark and Prince Henrik tour UVa</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Marshall, Michael</dcterms:creator>
+    <dcterms:created>1991</dcterms:created>
+    <dcterms:description>From excerpt: Queen Margrethe II of Denmark and her husband Prince Henrik (center) are joined on a tour of the Lawn by University President and Mrs. John T. Casteen III February 18, 1991 on the first day of the Danish royalty's state visit to the United States. Third-year student and University Guide Michael C. Smith led the tour. The Queen met with former Senator J. William Fulbright, for whom the Fulbright Scholar Program is named, to mark the 40th anniversary of Danish participation in the scholar exchanges. The royal party also attended a lecture in Alderman Library's McGregor Room on Roman archaeological excavations in Morgantina, Sicily, in which the Queen's grandfather was involved and which are now conducted by UVa.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Press coverage</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white negatives</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164510/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164510</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2164510/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

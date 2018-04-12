@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65864</dcterms:identifier>
+    <dcterms:title>Privilegia Londini: or, the rights, liberties, privileges, laws, and customs, of the City of London.  Wherein are contained; I. The several charters granted to the said city, from K. William I. to the present times.  II. The magistrates and officers thereof, with their respective creations, elections, rights, duties, and authorities.  III. The laws and customs of the city, as the same relate either to the persons or estates of the citizens ... IV. The nature, jurisdiction, practice, and proceedings of the several courts thereof, with tables of fees relating thereto.  V. The several statutes concerning the said city, and citizens, alphabetically digested.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bohun, William.</dcterms:creator>
+    <dcterms:created>1723</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xvi, 498, [22], 16 p. 20 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for John Walthoe and James Crokatt</dcterms:publisher>
+    <dcterms:subject>Customary law</dcterms:subject>
+    <dcterms:subject>Courts</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65864/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65864</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2377603/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

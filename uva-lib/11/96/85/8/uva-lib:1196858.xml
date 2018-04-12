@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1196858</dcterms:identifier>
+    <dcterms:title>Petersburg, Camp Lee and vicinity</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1917</dcterms:created>
+    <dcterms:extent>1 map : col. ; 28 x 45 cm. folded into paper covers 16 x 9 cm.</dcterms:extent>
+    <dcterms:publisher>Childrey Company</dcterms:publisher>
+    <dcterms:subject>World War, 1914-1918</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:temporal>Siege, 1864-1865</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1196858/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196858</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1205369/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

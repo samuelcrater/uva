@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440390</dcterms:identifier>
+    <dcterms:title>Ancient Roman forceps (replica)</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1944</dcterms:created>
+    <dcterms:description>Replica of ancient Roman forceps from the first century A.D. Most likely a replica of instrument number 243 cataloged in the following source: Bliquez, L.J. (1994) Roman surgical instruments and other minor objects in the National Archaeological Museum of Naples. Manz, von Zabern. Donated to the University of Virginia by members of the 8th Evacuation Hospital Unit of the United States Army.</dcterms:description>
+    <dcterms:medium>bronze (metal)</dcterms:medium>
+    <dcterms:subject>Medicine, Greek and Roman</dcterms:subject>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440390/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440390</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440390/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

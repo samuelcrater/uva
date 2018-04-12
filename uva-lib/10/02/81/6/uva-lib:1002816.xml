@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1002816</dcterms:identifier>
+    <dcterms:title>Les considerations des quatre mondes, à sauoir est: diuin, angelique, celeste, &amp; sensible: : comprinses en quatre centuries de quatrains, contenans la cresme de diuine &amp; humaine philosophie.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>La Perrière, Guillaume de, 1499-1565</dcterms:creator>
+    <dcterms:created>1552</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[238] p. : ill. ; 17 cm.</dcterms:extent>
+    <dcterms:publisher>Par Macé Bonhomme</dcterms:publisher>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002816/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002816</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:847959/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

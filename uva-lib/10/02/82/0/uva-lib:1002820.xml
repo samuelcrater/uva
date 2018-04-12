@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1002820</dcterms:identifier>
+    <dcterms:title>Tableaux. Accomplis de tous les arts liberaux, : contenans brieuement et clerement par singuliere methode de doctrine, vne generale et sommaire partition des dicts arts, amassez et reduicts en ordre pour le soulagement et profit de la ieunesse.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Savigny, Christophe de, approximately 1530-1608</dcterms:creator>
+    <dcterms:created>1587</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[38] leaves : ill. ; 44 cm.</dcterms:extent>
+    <dcterms:publisher>Par Iean &amp; François de Gourmont freres, demeurants ruë Sainct Iean de Latran</dcterms:publisher>
+    <dcterms:subject>Classification</dcterms:subject>
+    <dcterms:subject>Arts</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002820/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002820</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:849914/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

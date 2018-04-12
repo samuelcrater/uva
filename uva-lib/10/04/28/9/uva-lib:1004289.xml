@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1004289</dcterms:identifier>
+    <dcterms:title>Nouveau royaume de Pologne</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Delamarche, Charles François, 1740-1817</dcterms:creator>
+    <dcterms:created>1817</dcterms:created>
+    <dcterms:extent>1 map : col. ; 49 x 61 cm. on sheet 57 x 81 cm.</dcterms:extent>
+    <dcterms:publisher>Chez Fr'x. Delamarche et Chles. Dien Ingénieurs, Mécaniciens pour les Globes et Sphères Rue du Jardinet No. 13</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>fre</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004289/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004289</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096741/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

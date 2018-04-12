@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:798063</dcterms:identifier>
+    <dcterms:title>Liure tres bon plaisant et salutaire de linstitution de la femme chrestienne, tant en son enfance, que mariage &amp; viduite. : Aussi de loffice du mary,</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Vives, Juan Luis, 1492-1540</dcterms:creator>
+    <dcterms:created>1543</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[6], cli, [1] leaves ; 16 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>On les vend a Paris en la rue sainct Iaques a         lenseigne des deux couchetz, par Iaques Keruer</dcterms:publisher>
+    <dcterms:subject>Women</dcterms:subject>
+    <dcterms:subject>Women</dcterms:subject>
+    <dcterms:subject>Women and religion</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:language>lat</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:798063/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:798063</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1008044/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

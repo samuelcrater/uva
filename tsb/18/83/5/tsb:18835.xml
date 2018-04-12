@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:18835</dcterms:identifier>
+    <dcterms:title>Rates of medical charges. : We Physicians practicing in the County of Culpeper, and members of the Culpeper Medical Society, agree to charge and require fees not less than the following, in cases hereafter specified. ... : Resolved, That no deminution in the foregoing rates of charges shall be made, but the Physician may deduct from the aggregate amount of his bill, from motives of charity only.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1852</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 sheet ([1] p.) ; 30 x 22 cm.</dcterms:extent>
+    <dcterms:publisher>Culpeper Medical Society</dcterms:publisher>
+    <dcterms:subject>Medical care, Cost of</dcterms:subject>
+    <dcterms:subject>Physicians</dcterms:subject>
+    <dcterms:subject>Culpeper Medical Society (Culpeper County, Va.)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Culpeper</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Broadsides-Virginia-Culpeper-1852.</edm:hasType>
+    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18835/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18835</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1517617/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

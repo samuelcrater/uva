@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003325</dcterms:identifier>
+    <dcterms:title>Plan of Clifton Forge, Alleghany County, Virginia</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Fraser, D. St. George.</dcterms:creator>
+    <dcterms:created>1890</dcterms:created>
+    <dcterms:extent>1 map : col. ; 44 x 68 cm. on sheet 47 x 69 cm. folded to 18 x 9 cm.</dcterms:extent>
+    <dcterms:publisher>Clifton Forge Company</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Clifton Forge</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003325/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003325</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:891377/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

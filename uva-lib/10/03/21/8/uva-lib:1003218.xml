@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003218</dcterms:identifier>
+    <dcterms:title>Imperium in imperio</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Griggs, Sutton E. (Sutton Elbert), 1872-1933</dcterms:creator>
+    <dcterms:created>1899</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[2] unnumbered leaves, I-II, 265 pages ; 18 cm</dcterms:extent>
+    <dcterms:subject>Racially mixed people</dcterms:subject>
+    <dcterms:subject>African American men</dcterms:subject>
+    <dcterms:subject>Black nationalism</dcterms:subject>
+    <dcterms:subject>Radicals</dcterms:subject>
+    <dcterms:subject>Racism</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Ohio</dcterms:spatial>
+    <dcterms:spatial>Cincinnati</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003218/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003218</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:941962/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

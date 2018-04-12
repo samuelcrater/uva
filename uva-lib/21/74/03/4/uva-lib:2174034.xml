@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2174034</dcterms:identifier>
+    <dcterms:title>Claims of Union Theological Seminary, Va. on the friends of theological education</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Smith, B. M. (Benjamin Mosby), 1811-1893</dcterms:creator>
+    <dcterms:created>1867</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[3] p. ; 21 cm.</dcterms:extent>
+    <dcterms:publisher>Union Theological Seminary</dcterms:publisher>
+    <dcterms:subject>Finances</dcterms:subject>
+    <dcterms:subject>Theological seminaries</dcterms:subject>
+    <dcterms:subject>Union Theological Seminary in Virginia./</dcterms:subject>
+    <dcterms:subject>Union Theological Seminary in Virginia</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Prince Edward County</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174034/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174034</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2186876/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

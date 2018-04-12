@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168620</dcterms:identifier>
+    <dcterms:title>School of Medicine, Fourth Year Class, 1945-1946</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1945/1946</dcterms:created>
+    <dcterms:description>Class of 1946. Identified (L to R): First row: Frank Kimball Abbott, Leon Ashby Adams, Thomas
+Henry Alphin, Lane Ameen, Thomas Alred Anderson, Jr., Frank McFaden Blanton, Paul Paine Bourjaily,
+Royce Lee Brown, David Staats Burnet, James Joseph Bushnell, Gilbert Sadler Campbell, Jr., William
+Everett Carter, Harry Duffield Cox Second row: Geoffrey William Curwen, Arthur Ebbert, Jr., Walter
+Lee Evans, Jr., Thomas Hancock Garth, Sam Dixon Graham, George Walter Hambrick, Jr., Gunyon Mitchell
+Harrison, Jacquelin Marshall Harrison, William Henry Harrison, Robert William Hartley, Wayland
+Jackson Hayes Third row: Malcolm Alexander Holliday, Jack Warren Hollowell, Ruth Wade Holmboe, Mark
+Edgar Holt, Jr., James Byron Hutcheson, III, Eugene Rucker Johnson, Homer Rodeheaver Justis, Bernard
+Herman Kasinoff, Hyman Charles Kessler, Howard Israel Kruger, Morris Arthur Lambdin Fourth row:
+Jospeh Hyman Marko, Dennis Parfrement McCarty, Walter Copley McLean, Charles Wesley Merritt, Herbert
+Nicholas Munhall, Jr., Philip Foster Murray, Lewis Benton Newman, William Whitehurst Old, III, Earl
+Tracy Owen, Wesley Calhoun Palmes, Jr., Edmund Cape Payne, Jr. Samuel Randolph Penn Fifth row: Lula
+Johnson Power, Robert Lee Price, William Edmond Rabil, Emmett Francis Reese, III, Robert Legare
+Reeves, Walter Stevens Ridgway, II, Benito Benjamin Rish, Milton Lewis Rosenberg, Russell Arthur
+Salton, Herbert Ralph Silverman, Raymond Herbert Stokes, Paul Shafer Stonesifer, Jr. Sixth row: John
+Alan Stough, Sullivan, Oscar Andreas Thorup, Jr., Robert Bocock Wilkins, Charles William Wilson,
+Morton Charles Wilson</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168620/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168620</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168620/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

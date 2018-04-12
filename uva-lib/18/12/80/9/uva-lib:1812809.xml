@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1812809</dcterms:identifier>
+    <dcterms:title>A voyage of discovery to the North Pacific ocean, and round the world; in which the coast of north-west America has been carefully examined and accurately surveyed.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Vancouver, George, 1757-1798</dcterms:creator>
+    <dcterms:created>1798</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>3 v. : 17 plates, map. ; 31 x 24 cm. + Atlas of 16 plates (incl. 6 fold. charts) 58 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for G. G. and J. Robinson, and J. Edwards.</dcterms:publisher>
+    <dcterms:subject>Library</dcterms:subject>
+    <dcterms:subject>Voyages around the world</dcterms:subject>
+    <dcterms:subject>Mellon, Paul/</dcterms:subject>
+    <dcterms:subject>Discovery (Ship : Launched 1789)/</dcterms:subject>
+    <dcterms:subject>Chatham (Ship)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1812809/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1812809</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2180985/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

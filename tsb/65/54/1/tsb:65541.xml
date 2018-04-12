@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65541</dcterms:identifier>
+    <dcterms:title>The mystery of Mary Stuart</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Lang, Andrew, 1844-1912</dcterms:creator>
+    <dcterms:created>1902</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xxiv, 452 p. 9 pl., 5 port. (incl. front.) col. plan, 5 facsim. 24 cm.</dcterms:extent>
+    <dcterms:publisher>Longmans, Green</dcterms:publisher>
+    <dcterms:subject>Mary</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>biography</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65541/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65541</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2285879/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

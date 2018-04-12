@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:64377</dcterms:identifier>
+    <dcterms:title>The Christian education of children and youth</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Miller, Samuel, 1769-1850</dcterms:creator>
+    <dcterms:created>1840</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>66 p., 15 cm.</dcterms:extent>
+    <dcterms:publisher>Presbyterian board of publication</dcterms:publisher>
+    <dcterms:subject>Education</dcterms:subject>
+    <dcterms:subject>Church schools</dcterms:subject>
+    <dcterms:subject>Presbyterian Church in the U.S.A.</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64377/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64377</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1954340/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

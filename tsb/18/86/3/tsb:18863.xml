@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:18863</dcterms:identifier>
+    <dcterms:title>Richmond, January 15, 1853. : Dear Sir, The Tobacco Market has been very active this week. ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1853</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 folded sheet ([1] p.) ; 25 x 40 cm. folded to 25 x 20 cm.</dcterms:extent>
+    <dcterms:publisher>Wm. H. Brown</dcterms:publisher>
+    <dcterms:subject>Tobacco</dcterms:subject>
+    <dcterms:subject>Tobacco industry</dcterms:subject>
+    <dcterms:subject>Commission merchants</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Richmond</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Circulars-Virginia-Richmond-1853.</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18863/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18863</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518152/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

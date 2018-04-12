@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440435</dcterms:identifier>
+    <dcterms:title>Pocket surgical instrument set</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Charles Willms Surgical Instrument Company</dcterms:creator>
+    <dcterms:created>1871/1892</dcterms:created>
+    <dcterms:description>Contained in leather and fabric case; C. Willms &amp; Co., Manufacturers of surgical instruments, Baltimore MD; set includes: male catheter - metal; female catheter tube - metal; aneurism needle - metal; aneurism needle with grooved director - metal; arterial serrefin forceps - metal; curved probe point scalpel and bistoury - shell and metal, Willms 8; trocar and canula - metal sterling; porte meche - sterling; finger knife and aneurism needle -  shell and metal, Willms 2; gum lancet - shell and metal; fenestrated artery with needles forceps - metal; curved sharp tenotome and bistoury - shell and metal, Willms 15; curved probe tenaculum and bistoury - shell and metal, Willms; arterila serrefin forceps - metal; suture needle full curve - metal, 5 cm; half curve suture needle -  metal, 3.25 cm; half curve suture needle, 2.75 cm; wire suture needle - metal, 3.75 cm; surgical silk fabric.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>tortoise shell</dcterms:medium>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440435/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440435</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440435/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

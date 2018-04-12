@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:770573</dcterms:identifier>
+    <dcterms:title>Le pacifique. : Colloque de deux Francois, auquel il est monstré cōbien est deplorable l'horrible effusion de sang Chrestien, qui se fait par toute l'Europe passé tant d'annees sous titre de religiō: quel accord se pourroit trouuer entre les Chrestiens, s'ils se vouloyēt escouter l'vn l'autre en vn Concile libre &amp; legitime:  ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Friderick, Theophile.</dcterms:creator>
+    <dcterms:created>1590</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>74 p., [1] leaf, 11 p. ; 18 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>s.n.]</dcterms:publisher>
+    <dcterms:subject>Doctrines</dcterms:subject>
+    <dcterms:subject>Christianity</dcterms:subject>
+    <dcterms:subject>Protestantism</dcterms:subject>
+    <dcterms:subject>Reformation</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Catholic Church</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770573/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770573</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:859457/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

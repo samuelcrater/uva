@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:616765</dcterms:identifier>
+    <dcterms:title>Süd Carolina. : Nach des Gouverneurs von Carolina, J. Drayton's Charte (1803) reducirt.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Drayton, John, 1766-1822</dcterms:creator>
+    <dcterms:created>1806</dcterms:created>
+    <dcterms:extent>1 map : b&amp;w ; 22 x 30 cm.</dcterms:extent>
+    <dcterms:publisher>im Verlage der geographischen Instituts</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <dcterms:spatial>Weimar</dcterms:spatial>
+    <dcterms:language>ger</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616765/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616765</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620350/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

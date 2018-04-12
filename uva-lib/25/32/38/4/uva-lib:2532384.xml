@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2532384</dcterms:identifier>
+    <dcterms:title>Lycopodium can</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>J.D. Aug. (August) Hartz</dcterms:creator>
+    <dcterms:created>1865/1939</dcterms:created>
+    <dcterms:description>Metal can painted brown, black, and tan with "Lycopodium" written on it. A small label reads: J.D. AUG. HARTZ, APOTHECARY, COLLEGE POINT. L.I. [Long Island, New York]. Container is empty and missing lid.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:extent>17.4 x 12.7 x 12.7 cm</dcterms:extent>
+    <dcterms:subject>Pharmaceutical technology</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>pharmacy</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532384/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532384</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2532384/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

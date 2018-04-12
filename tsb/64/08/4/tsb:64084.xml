@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:64084</dcterms:identifier>
+    <dcterms:title>Liberalism</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hobhouse, L. T. (Leonard Trelawny), 1864-1929</dcterms:creator>
+    <dcterms:created>1911</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>v, 7-254 p. ; 18 cm.</dcterms:extent>
+    <dcterms:publisher>Henry Holt and Company</dcterms:publisher>
+    <dcterms:subject>Library</dcterms:subject>
+    <dcterms:subject>Liberalism</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Spencer, Anne</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:temporal>1837-1901</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64084/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64084</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1850539/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

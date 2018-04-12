@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2524234</dcterms:identifier>
+    <dcterms:title>Mulford's Widal Test Outfit</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>H.K. Mulford Co.</dcterms:creator>
+    <dcterms:created>1905</dcterms:created>
+    <dcterms:description>This set contains items needed for conducting a Widal test to detect typhoid. The set includes: 30 c.c stock bottle Typhoid suspension, 30 c.c stock bottle salt solution, 10 c.c dropping flask used for dropping Typhoid Suspension, 10 c.c droping flask used for dropping salt solution, 6 graduated test tubes used in making tests, graduated pipette, 12 small capillary bulbs or tubes to collect the blood serum, needle.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:extent>11.3 x 18.8 x 10 cm</dcterms:extent>
+    <dcterms:subject>Medical laboratory technology</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524234/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524234</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524234/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

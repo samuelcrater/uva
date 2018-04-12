@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1090414</dcterms:identifier>
+    <dcterms:title>Recueil de receptes choisies experimentées &amp; approuvées. : Contre quantité de maux fort cōmuns tant internes q'uexternes inveterés, &amp; difficiles à guerir.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Fouquet, Marie de Maupeou, vicomtesse de Vaux, 1590-1681</dcterms:creator>
+    <dcterms:created>1675</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[29], 350 (i.e. 352) p. ; 11 cm. (16mo)</dcterms:extent>
+    <dcterms:publisher>De l'imprimerie de Pierre Grandsaigne, imprimeur de Monseigneur l'illustrissime &amp; reverendissime Evéque &amp; Comte d'Agde, de la ville &amp; du college</dcterms:publisher>
+    <dcterms:subject>Therapeutics</dcterms:subject>
+    <dcterms:subject>Medicine</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Villefranche</dcterms:spatial>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1090414/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1090414</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1106789/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

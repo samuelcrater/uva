@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2174038</dcterms:identifier>
+    <dcterms:title>Reception of the Ninth Infantry, N.Y.S.N.G. in Stamford, on Tuesday, July 27, 1869. : Programme. ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1869</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 sheet ([1] p.) ; 35 x 13 cm.</dcterms:extent>
+    <dcterms:publisher>Citizen's Committee</dcterms:publisher>
+    <dcterms:subject>Parades</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>New York (State)./</dcterms:subject>
+    <dcterms:subject>National Guard./</dcterms:subject>
+    <dcterms:subject>Infantry Regiment, 9th.</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Broadsides-Connecticut-1869.</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174038/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174038</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2186866/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2569223</dcterms:identifier>
+    <dcterms:title>Mammography X-ray tube</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>AEG Aktiengesellschaft</dcterms:creator>
+    <dcterms:created>1987</dcterms:created>
+    <dcterms:description>Single purpose X-ray tube. One of the labels reads "AEG X-Ray Tube Type: MBM 60, Serial No.: 710864, Manuf.: Berlin, Mar. 1987, Made in Germany." 
+      This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., Chair of the UVa Department of Radiology from 1963-1991.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>ceramic (material)</dcterms:medium>
+    <dcterms:medium>plastic (organic material)</dcterms:medium>
+    <dcterms:extent>6.5 x 17 x 7 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569223/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569223</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2569223/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

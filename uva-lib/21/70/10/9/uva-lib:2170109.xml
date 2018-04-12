@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2170109</dcterms:identifier>
+    <dcterms:title>To the Electors of the State of New-York. : Fellow Citizens! The glorious triumph of federalism is at hand. : Our administration appalled by the manly opposition made by the patriotic minority in Congress, and by the majority of the people in the Northern and Eastern States against the ruinous Embargo and Non-Intercourse system, have at length concluded to yield to the terms offered by Great Britain more than eighteen months since ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1809</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 sheet ([1] p.) ; 32 x 20 cm.</dcterms:extent>
+    <dcterms:publisher>Federal Party</dcterms:publisher>
+    <dcterms:subject>Political and social views</dcterms:subject>
+    <dcterms:subject>Campaign literature</dcterms:subject>
+    <dcterms:subject>Embargo, 1807-1809</dcterms:subject>
+    <dcterms:subject>Foreign relations</dcterms:subject>
+    <dcterms:subject>Foreign relations</dcterms:subject>
+    <dcterms:subject>Commercial policy</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Jefferson, Thomas/</dcterms:subject>
+    <dcterms:subject>Republican Party (U.S. : 1792-1828)/</dcterms:subject>
+    <dcterms:subject>Federal Party (U.S.)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>New York</dcterms:spatial>
+    <dcterms:spatial>Albany</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Broadsides-New York (State)-Albany-1809.</edm:hasType>
+    <dcterms:temporal>1801-1809</dcterms:temporal>
+    <dcterms:temporal>1775-1865</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2170109/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170109</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2183341/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

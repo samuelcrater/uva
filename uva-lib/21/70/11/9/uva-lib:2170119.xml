@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2170119</dcterms:identifier>
+    <dcterms:title>Norfolk Borough, April 24, 1838. : Sir: At a recent meeting of the people of this Borough, resolutions were adopted by them, respectfully recommending to their fellow citizens of Virginia and North Carolina to unite with them in a Convention, to be holden in the city of Richmond on the second Wednesday in June next, with a view to aid in the attainment of the objects specified in the report and resolutions adopted at the last session of the Augusta Convention. : ... we have been appointed a committee to correspond with the counties and towns in those states, and to extend to them a most respectful and earnest invitation to meet us ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1838</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 folded sheet ([2] p.) ; 26 cm.</dcterms:extent>
+    <dcterms:publisher>Borough of Norfolk</dcterms:publisher>
+    <dcterms:subject>Commercial associations</dcterms:subject>
+    <dcterms:subject>Commerce</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2170119/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170119</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2180184/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

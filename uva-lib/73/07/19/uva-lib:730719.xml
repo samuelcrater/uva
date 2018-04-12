@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:730719</dcterms:identifier>
+    <dcterms:title>Sillacii Castraei belli musarum'que muneribus instructissimi, animi corporisque dotibus ornatissimi, Tumulus, variis poëtarum inscriptionibus insignitus. = Le tu[m]beau du seigneur de La Chastre, dict de Sillac, gentil-homme Nagueres orné des excellences du corps &amp; de l'esprit, &amp; garni de la cognoissance des lettres &amp; armes: graué d'inscriptions de diuers poëtes.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1569</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[24] p. ; 22 cm. (4to)</dcterms:extent>
+    <dcterms:publisher>Par Robert Estienne imprimeur du Roy</dcterms:publisher>
+    <dcterms:subject>La Chastre, Jacques de</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>lat</dcterms:language>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:language>gre</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730719/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730719</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:736208/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

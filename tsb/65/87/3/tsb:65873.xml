@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65873</dcterms:identifier>
+    <dcterms:title>Reports of the trials of Colonel Aaron Burr, (late vice president of the United States,) for treason, and for a misdemeanor, in preparing the means of a military expedition against Mexico, a territory of the King of Spain, with whom the United States were at peace.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Burr, Aaron, 1756-1836</dcterms:creator>
+    <dcterms:created>1808</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. 23 cm.</dcterms:extent>
+    <dcterms:publisher>Published by Hopkins and Earle, Fry and Kammerer, printers.</dcterms:publisher>
+    <dcterms:subject>Burr Conspiracy, 1805-1807</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65873/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65873</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2383406/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

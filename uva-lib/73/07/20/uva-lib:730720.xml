@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:730720</dcterms:identifier>
+    <dcterms:title>La marmite renversee et fondue, de laquelle nostre Dieu parle par les saincts prophetes. : Ou est prouué que la secte Caluinique est la vraye marmitte &amp; est comprins un brief sommaire des desseins &amp; coniurations sanguinaires d'icelle cause de son entiere ruine.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Beauxamis, Thomas, 1524-1589</dcterms:creator>
+    <dcterms:created>1572</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>23 leaves ; 16 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>Chez Guillaume Chaudiere ...</dcterms:publisher>
+    <dcterms:subject>Apologetics</dcterms:subject>
+    <dcterms:subject>Calvinism</dcterms:subject>
+    <dcterms:subject>Catholic Church</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730720/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730720</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:736264/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2543692</dcterms:identifier>
+    <dcterms:title>Surgical kit</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Davis &amp; Geck Inc.</dcterms:creator>
+    <dcterms:created>1912/1918</dcterms:created>
+    <dcterms:description>World War I canvas field surgical kit with 2 snaps containing 8 instruments. Includes tweezers, scissors, bougie (?), hemostat, 
+      two small scalpels in a metal case stamped "PATENTED NOV. 5, 1912," one complete vial of sutures marked "Claustro-therman Catgut sutures, 
+      U.S.P, INTESTINAL - Atraumatic Needle, Chromic, Medium Type C, 00 In excess of 28 inches," and another marked "Kalmerld Catgut sutures, U.S.P. Chromic, 
+      Medium Type C, 0 In excess of 54 inches." Both made by Davis &amp; Geck Inc., N.Y. USA. Also 9 loose sutures needles and thread imbedded in a small pad. 
+      Property of Percy Elisha Duggins (1890-1965), a 1913 graduate of the UVA School of Medicine</dcterms:description>
+    <dcterms:medium>cloth</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>thread</dcterms:medium>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:extent>9 x 16 x 4 cm</dcterms:extent>
+    <dcterms:subject>World War, 1914-1918</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543692/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543692</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2543692/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

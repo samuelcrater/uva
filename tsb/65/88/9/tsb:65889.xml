@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65889</dcterms:identifier>
+    <dcterms:title>D. Thomae Cragii de Riccarton ... Jus feudale, tribus libris comprehensum: quibus non solùm consuetudines feudales, &amp; praediorum jura, quae in Scotia, Anglia &amp; plerisque Galliae locis obtinent, continentur; sed universum jus Scoticum, &amp; omnes ferè materiae juris clarè &amp; dilucidè exponuntur, &amp; ad fontes juris feudalis &amp; civilis singula reducuntur.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Craig, Thomas, Sir, 1538-1608</dcterms:creator>
+    <dcterms:created>1732</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xxii, 524, 52 p. front. (port.) 31 x 20 cm.</dcterms:extent>
+    <dcterms:publisher>apud T. &amp; W. Ruddimannos</dcterms:publisher>
+    <dcterms:subject>Feudal law</dcterms:subject>
+    <dcterms:subject>Feudal law</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>lat</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65889/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65889</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2393140/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

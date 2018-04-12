@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65970</dcterms:identifier>
+    <dcterms:title>A dictionary of the Norman or Old French language : collected from such acts of Parliament, Parliament rolls, journals, acts of state, records, law books, antient historians, and manuscripts as relate to this nation ... to which are added the laws of William, the Conqueror, with notes and references</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Kelham, Robert, 1717-1808</dcterms:creator>
+    <dcterms:created>1779/1899</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>viii, 259, xii, 88 p. ; 21 cm.</dcterms:extent>
+    <dcterms:publisher>W. Clarke and Sons</dcterms:publisher>
+    <dcterms:subject>Anglo-Norman dialect</dcterms:subject>
+    <dcterms:subject>Law</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65970/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65970</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2442009/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

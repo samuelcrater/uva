@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1148802</dcterms:identifier>
+    <dcterms:title>Golondrina (Swallow fantasia) : fantasia</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Heckle, A. F.</dcterms:creator>
+    <dcterms:created>1891</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>8 p. of music : 1-color ill.</dcterms:extent>
+    <dcterms:publisher>Thomas Goggan &amp; Bro.</dcterms:publisher>
+    <dcterms:subject>Piano music</dcterms:subject>
+    <dcterms:subject>Swallows</dcterms:subject>
+    <dcterms:subject>Popular instrumental music</dcterms:subject>
+    <dcterms:type>notated music</dcterms:type>
+    <dcterms:language>zxx</dcterms:language>
+    <edm:hasType>ft-vr-wz</edm:hasType>
+    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1148802/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148802</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1148803/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

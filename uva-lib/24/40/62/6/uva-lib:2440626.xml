@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440626</dcterms:identifier>
+    <dcterms:title>U.S. Army nurse's uniform from World War II</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1943/1945</dcterms:created>
+    <dcterms:description>This uniform was worn by Ruth Eastman, a nurse in the U.S. Army 8th Evacuation Hospital unit, during World War II. The uniform consists of a tan jacket and skirt: jacket with gold buttons and brown trim and (3) patches: blue and white, red white and blue "A5", 4 gold bars; "Ruth A. Eastman" sewn into collar; skirt with "Ruth A. Eastman" in two places and "SBHolars T-3" sewn/tacked onto inner lining.</dcterms:description>
+    <dcterms:medium>cloth</dcterms:medium>
+    <dcterms:subject>Uniforms</dcterms:subject>
+    <dcterms:subject>World War, 1939-1945</dcterms:subject>
+    <dcterms:subject>United States. Army. Evacuation Hospital, 8th</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>uniforms</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440626/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440626</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440626/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

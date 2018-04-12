@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:777151</dcterms:identifier>
+    <dcterms:title>Cosmographie [sic] introductio: cum quibusdam geometri[a]e ac astronomi[a]e principijs ad eam rem necessarijs. Insuper quattuor Americi Vespucij nauigationes.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Waldseemüller, Martin, 1470-1519</dcterms:creator>
+    <dcterms:created>1509</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[64] pages, [1] folded leaf of plates : ill. (woodcut) ; 21 cm (4to)</dcterms:extent>
+    <dcterms:publisher>Hoc opus ingeniosus vir Joannes Grüniger</dcterms:publisher>
+    <dcterms:subject>Geography</dcterms:subject>
+    <dcterms:subject>Discoveries in geography</dcterms:subject>
+    <dcterms:subject>Geography</dcterms:subject>
+    <dcterms:subject>Names</dcterms:subject>
+    <dcterms:subject>Discovery and exploration</dcterms:subject>
+    <dcterms:subject>Name</dcterms:subject>
+    <dcterms:subject>Vespucci, Amerigo</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Strasbourg</dcterms:spatial>
+    <dcterms:language>lat</dcterms:language>
+    <edm:hasType>Early works.</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:777151/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777151</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:793462/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

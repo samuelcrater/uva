@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65152</dcterms:identifier>
+    <dcterms:title>Reports of explorations and surveys, to ascertain the most practicable and economical route for a railroad from the Mississippi River to the Pacific Ocean.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1855/1860</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>12 v. in 13. plates (part col., part fold.) maps (part fold.) 30 x 24 cm.</dcterms:extent>
+    <dcterms:publisher>A.O.P. Nicholson, Printer</dcterms:publisher>
+    <dcterms:subject>Pacific railroads</dcterms:subject>
+    <dcterms:subject>Natural history</dcterms:subject>
+    <dcterms:subject>Indians of North America</dcterms:subject>
+    <dcterms:subject>Description and travel</dcterms:subject>
+    <dcterms:subject>Discovery and exploration</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65152/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65152</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2137005/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168546</dcterms:identifier>
+    <dcterms:title>School of Medicine, Third Year Class, 1930-1931</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1930/1931</dcterms:created>
+    <dcterms:description>Class of 1932 Identified (L to R): Thomas Dickinson Brown, James Lawson Cabaniss, Jack Leon
+Cantor, Austin Brockenbrough Chinn, Thomas Sterling Claiborne, Harry Boyd Coakley, Robert Ruben
+Coleman, Frank Dunnington Daniel, John Walter Davis, Jr., George Henry Derieux, Walter Ansell
+Derrick, Henry Rolfe DuPuy, Clarence Dearborn Freeman, Jr., Wesley Fry Second row: Charles Louis
+Gilbert, Emanuel Greenspon, Randolph Bryan Grinnan, Jr., John Hartwell Harrison, James Beebe Hawes,
+Edward Knapp Hawke, Robert Beall Hightower, Rosser Noland Hillsman, Jr., Leland Floyd Hobbs,
+Frederick Dixon Hollowell, Jr., Robert Tasker Humphries, William Dabney Jarman, Jean Barksdale Jones
+Third row: Edgar Wilson Kirby, Jr., Herman Lenowitz, John Cameron McCluer, Jr., Melvin Wood McGehee,
+Robert Faber Martin, Robert Stephen Millen, Phillip Louis Miller, Carl Herbert Myerley, Charles
+Morris Nelson, John Randolph Perdue, John Edmund Roberts, Elizabeth Lewis Saunders Fourth row: John
+Peyton Snead, Jr., Francis Arthur Snidow, Wilson Thomas Sowder, Hugh Otto Staley, Clifton Jean
+Strauss, Frank Andes Strickler, Herbert William Swertfeger, George Carland Tanner, Delmar Franklin
+Weaver, Jr., Robert Edward Westmoreland Fifth row: Hugh Grigsby Whitehead, Jr., William Beverly
+Wilkings, Munford Radford Yates, Joseph Edgar Young, Jr.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168546/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168546</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168546/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

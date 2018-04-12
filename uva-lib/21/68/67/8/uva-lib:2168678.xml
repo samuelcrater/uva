@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168678</dcterms:identifier>
+    <dcterms:title>School of Medicine, Fourth Year Class, 1957-1958</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+    <dcterms:created>1957/1958</dcterms:created>
+    <dcterms:description>First row (l to r): Ronald Bruce Kledzig, Alvin Monnie Kanter, John Wise Wescott, Donald John
+Kenneweg, Harry Hudnall Ware III, William Earl Strole, Jr., Don Franklin Shreve, Carlos Ray Ayers,
+Charles Hubert Adams, Ferdinand Baldwin Harrington, Jr., John Alfriend Mapp, Alfred Morton Shulwolf,
+James Peter King, Jr. Second row (l to r): Stuart Harold Wax, Mary Lou Combs Abram, Veronica
+Canakar, John Cole, Jr., Paul Edward Ludwig, Mary Del Toro Ludwig, Albert Harrison Luck, William
+Bryan Pollard, William Stallings, Fulton Williams Fite, Irvin Leonard Posner, Kenneth Douglas Tuck,
+Richard Dunn Marks, Jr. Third row (l to r): Wayne Douglas Boring, Jr., James Franklin White, Jr.,
+Stan Lee Coleman, Edwin James Harvie, Jr., Fred Arps Vinson, Jr., Thaddeus Lewis Kostubala, Thomas
+Robert Glasco, William Douglas Clark, John Herbert Dilworth, Benjamin Word, Charles Isaac Sheaffer,
+Barringer Duncan Marshall, Jr., James Franklin White, Jr. Fourth row (l to r): Edward Elias Gahres,
+Porter Burks Echols, Jr., Larry William Berman, James Moir Hylton, Donald Pressley Stacks, Hideo
+Oshiro, Donald John Kenneweg, Hannibal Eldredge Howell, Norman Rosenbaum, Carl Bruce Caplinger,
+David Deadrick Stone, Thomas Epps Wilson III, Austin Litvak. Fifth row (l to r): Harvey Daniel
+Lewis, Jr., Clifford Williams Caplan, Edmond Reginald Henelt, William Joseph Hanock, Robert Francis
+Selden, Jr., Arthur Gaillard Gower III, George Pete Scouras, Frederick Daniel Robinson, Robert Howe
+Dodd, Robert Eugene Dye, James Vincent Gallagher, Robert Batson Hall.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168678/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168678</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168678/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

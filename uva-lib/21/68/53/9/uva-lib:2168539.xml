@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168539</dcterms:identifier>
+    <dcterms:title>Fourth Year Class, 1929-1930</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1929/1930</dcterms:created>
+    <dcterms:description>SOM, Class of 1930 Identified, from left to right: Top row: Richard F. Slaughter Jr., Robert
+E. Odom, William O. Purdy, Archibald A. Little Jr., Achilles L. Tynes Jr., Lewis B. Sheppard,
+Frederick M. Morrison, William M. Gammon, Harold H. McLemore, J. R. Eggleston, Thomas L. Watson Jr.,
+Dorothy D. Brame, Daniel B. Pierson Jr., William H. Paine Jr. Second row: Beverly K. Peter, Ernest
+S. Elliott, Henry R. Bourne, Oliver L. Von Canon, Benjamin W. Rawles Jr., James E. Wissler, Richard
+E. White, H. T. Marshall (Pathology and Bacteriology), Paul H. Revercomb, Julian E. West, Thomas L.
+Allman, Prosser H. Picot, William C. Wills, Charles Keppler Jr., Charles B. Smith Third row: Robert
+L. Wells, Paul S. Hill, Eugune B. Ferris Jr., George T. Gwathmey Jr., J. A. Waddell (Materia-Medica
+and Pharmacology), H. E. Jordan (Histology and Embryology), [skip center photo], E. P. Lehman
+(Surgery and Gynecology), J. E. Kindred (Histology and Embryology), John D. Peake, Charles W.
+Rodgers, Hill Carter III, William H. Roper Fourth row: Southgate Leigh Jr., Paul Kells, Edward S.
+Orgain, H. B. Mulholland (Medicine), W. E. Brown (Phthisiotherapy), [skip center photo], J. H. Neff
+(Urology), D. C. Smith (Dermatology and Syphilology), Alfred C. Ray Jr., William L. Sibley, Emory L.
+Shiflett Center photo: Dr. J. C. Flippin - Dean Fifth row: William A. Brumfield Jr., Joseph H.
+Farrow, Joel L. Deuterman, James E. Amiss, V. W. Archer (Roentgenology), W. E. Bray (Clincal
+Diagnosis), H. S. Hedges (Ophthalmology), L. T. Royster (Pediatrics), W. H. Goodwin (Surgery), K. F.
+Maxcy (Health and Hygiene), John C. Palmer, Walter J. Allegree, Dewey L. Anderson, Morton M.
+Pinckney Sixth row: Alexander T. Mayo, Bergliot Stromsoe, Allan E. Walker Jr., C. C. Speidel
+(Anatomy), L. A. Calkins (Gynecology and Obstetrics), J. E. Wood (Medicine), A. F. Voshell
+(Orthopedics), R. B. Bean (Anatomy), F. D. Woodward (Otolaryngology ), F. B. Carter (Obstetrics), S.
+D. Blackford (Medicine), James P. King, Manfred Call III, Robert B. Skinner Seventh row: Alfred W.
+Pinkerton, D. C. Wilson (Psychiatry-Neurology), A. D. Hart (Medicine), O. Swineford (Medicine), T.
+F. Brumfield (Bacteriology and Pathology), H. W. Smith (Physiology), F. B. Stafford
+(Phthisotherapy), E. S. Sanderson (Pathology and Bacteriology), R. M. Meade (Surgery), W. W. Waddell
+(Pediatrics), C. B. Morton (Surgery), A. Chanutin (Biochemistry), R. T. Ergenbright (Orthopedics),
+Joseph P. Coco</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168539/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168539</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168539/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2165639</dcterms:identifier>
+    <dcterms:title>Virginia Law Review Board 1925-1926</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1925/1926</dcterms:created>
+    <dcterms:description>Including members of the Class of 1926, Class of 1927, Class of 1928 and Class of 1929.  Allen M. Beard, Walter L. Brown, Charles G. Buck, John D. Carr, Lewis C. Carroll, LeRoy R. Cohen, Jr., Paul H. Coleman, Edwin H. Copenhaver, John T. Delaney, Allyn Dillard, Hardy C. Dillard, (Class of 1927, fourth Dean of the School of Law [1963-1968] - first row, third from left), Mansfield C. Fuldner, Claude L. Gray, Robert C. Grove, Richard W. Hagan, Jr., Robert L. Hinds, Edwin R. Holmes, Jr., Albert S. Kemper, Richard S. Leftwich, J. M. B. Lewis, Jr., James B. Lovelace, John P. McGuire, Jr., H. Maxwell Parker, Nathan S. Poffenbarger, William S. Potter, John Ritchie, III, Adolphus B. Scott, Kingham C. Shelburne, Charles H. Smith, McLane Tilton, III, R. Harrel Whilden.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>sepia prints</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2165639/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2165639</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2165639/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

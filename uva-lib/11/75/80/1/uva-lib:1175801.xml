@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1175801</dcterms:identifier>
+    <dcterms:title>Programme of the opening concert. University of Virginia. Banjo, Mandolin and Guitar and Glee Clubs. Public hall. University of Virginia, Thursday evening, December 17, 1891.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1891</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[4] p. illus. 21 x 13 cm.</dcterms:extent>
+    <dcterms:publisher>C.M. Brand, Printer</dcterms:publisher>
+    <dcterms:subject>University of Virginia./</dcterms:subject>
+    <dcterms:subject>Glee Club./</dcterms:subject>
+    <dcterms:subject>University of Virginia./</dcterms:subject>
+    <dcterms:subject>Banjo, Mandolin and Guitar Club.</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1175801/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1175801</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1180145/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

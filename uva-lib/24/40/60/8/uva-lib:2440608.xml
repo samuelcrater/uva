@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440608</dcterms:identifier>
+    <dcterms:title>Electrotherapy apparatus</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Galvano-faradic manufacturing company, New York</dcterms:creator>
+    <dcterms:created>1872</dcterms:created>
+    <dcterms:description>Galvano Faradic Manufacturing Company, New York, Patented February 1 1870, May 30 1871, March 26 1872; Primary Secondary, battery fluid formula Rx Acid Sulphuric (Commercial) [symbol] Pulv Bichromate-Potash [symbol] Water [symbol]; instructions: dissolve the Bisulphate of Mercury in the water then add the Bichromate of Potash. When dissolved pour in the Sulphuric Acid and allow the liquid to cool before filling the battery, and disk electrodes.</dcterms:description>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:subject>Electrotherapeutics Instruments</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440608/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440608</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440608/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

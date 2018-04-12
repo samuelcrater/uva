@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:58653</dcterms:identifier>
+    <dcterms:title>Medicine bottle with cap</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Merk &amp; Company, Inc</dcterms:creator>
+    <dcterms:created>1890/1930</dcterms:created>
+    <dcterms:description>Amber glass bottle with screw-on plastic cap. Label reads: "1 oz. Theobromine Sodio-Salicylate Merk." Label number 43055. Also reads: 
+   "CAUTION: -To be dispensed only by or on the prescription of a physician, or otherwise used only for manufacturing purposes. Printed in the USA."</dcterms:description>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:medium>plastic (organic material)</dcterms:medium>
+    <dcterms:medium>paper (fiber product)</dcterms:medium>
+    <dcterms:extent>1.1 x 10.5 x 1.8 cm</dcterms:extent>
+    <dcterms:subject>Medicine bottles</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <edm:hasType>medicine bottles</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58653/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58653</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1526750/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

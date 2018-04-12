@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168626</dcterms:identifier>
+    <dcterms:title>School of Medicine, Fourth Year Class, 1946-1947</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1946/1947</dcterms:created>
+    <dcterms:description>Back of photograph has signature of Dr. Mulholland. Class of 1947. Identified L to R: Front
+row: Thomas Henry Alphin, Crescent Frank Balmenti, Hugh Miller Batson, Jr., John Bayard Britton,
+Carl Ashton Broaddus, Jr., Robert Ludington Brown, III, William Knox Brown, Louis Herman Calisch,
+Edmond Madison Chitwood, Jr., Herbert Augustine Claiborne, Jr., James Hicks Corey, Jr.. Second row:
+Waverly Berkley Dashiell, Powell Garland Dillard, Jr., Ernest Malcolm Dixon, James Paul Elkins,
+Nathaniel McGregor Ewell, Jr., Herbert Lyman Findley, Jr., Claiborne Willcox Fitchett, Jaime Higinio
+Font, Edgar Coley Garrard, Billy Norris Golden, Robert Castleman Green, Jr., Stuart Leslie Haas.
+Third row: Richard Littleton Haines, Eugene Augustus Hildreth, Edward Reginald Hipp, Jr., Charles
+Edwin Horton, Eugene Rucker Johnson, James Barrett Jones, James Maurice Knopp, Henry Clayton Landon,
+III, William Andrew MacIlwaine, John Houston McClung, Charles Theodore Michele. Fourth row: Joe
+Elias Mitchell, Richard Allen Neubauer, Rea Blackwell Parker, Jr., Edwin Pearlman, James Andrew
+Pettigrew, Murray Benjamin Pincus, Glenn Hickam Richmond, Frank Marcellus Ripberger, Guy Leslie
+Rutledge, Cary Grayson Suter, Columbus Downing Tait. Fifth row: John Sheffield Tennant, Clyde
+Hartwell Ward, Jr., Charles Warren Whitmore, James Dwight Whitt, Mortimer Lee Williams, David Cole
+Wilson, Jr., Suzanne Hayward Worrilow, Alfred Yager.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168626/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168626</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168626/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

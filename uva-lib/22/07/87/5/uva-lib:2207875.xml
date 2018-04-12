@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2207875</dcterms:identifier>
+    <dcterms:title>Songs of Zion. : Being a small collection of tunes, principally original; with appropriate lines, adapted to divine worship.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1821</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 score (64 p.) ; 13 x 22 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by A. Davisson Harrisonburg, Rockingham County, Virginia. Where on application music-printing of every description will be executed with neatness and despatch</dcterms:publisher>
+    <dcterms:subject>Shape-note hymnals</dcterms:subject>
+    <dcterms:subject>Choruses, Sacred (Mixed voices), Unaccompanied</dcterms:subject>
+    <dcterms:subject>Hymns</dcterms:subject>
+    <dcterms:type>notated music</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Harrisonburg</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2207875/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2207875</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2221314/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

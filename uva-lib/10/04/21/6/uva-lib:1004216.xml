@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1004216</dcterms:identifier>
+    <dcterms:title>A Proclamation by the President of the United States. : New-Orleans Argus and Louisiana Advertiser supplement, Tuesday morning, December 25, 1832.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1832</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 sheet ([1] p.) ; 58 x 42 cm.</dcterms:extent>
+    <dcterms:publisher>New-Orleans Argus and Louisiana Advertiser</dcterms:publisher>
+    <dcterms:subject>Nullification (States' rights)</dcterms:subject>
+    <dcterms:subject>Protectionism</dcterms:subject>
+    <dcterms:subject>States' rights (American politics)</dcterms:subject>
+    <dcterms:subject>Tariff</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>South Carolina./</dcterms:subject>
+    <dcterms:subject>Convention/</dcterms:subject>
+    <dcterms:subject>(1832-1833)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Louisiand</dcterms:spatial>
+    <dcterms:spatial>New Orleans</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Broadsides-Louisiana-New Orleans.</edm:hasType>
+    <dcterms:temporal>1775-1865</dcterms:temporal>
+    <dcterms:temporal>1829-1837</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004216/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004216</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096722/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

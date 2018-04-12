@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:729624</dcterms:identifier>
+    <dcterms:title>Art poëtique françois, : pour l'instruction des ieunes studieux, &amp; encor' peu auancez en la poësie françoise. : Auec le Quintil Horatian, sur la defense &amp; illustration de la langue françoise.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Sebillet, Thomas, 1512-1589</dcterms:creator>
+    <dcterms:created>1556</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>292, [11] p. ; 12 cm.  (16mo)</dcterms:extent>
+    <dcterms:publisher>Par Iean Temporal</dcterms:publisher>
+    <dcterms:subject>French language</dcterms:subject>
+    <dcterms:subject>French poetry</dcterms:subject>
+    <dcterms:subject>Poetry</dcterms:subject>
+    <dcterms:subject>Rhetoric</dcterms:subject>
+    <dcterms:subject>Poetics</dcterms:subject>
+    <dcterms:subject>Rhetoric</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:temporal>Middle French, 1300-1600</dcterms:temporal>
+    <dcterms:temporal>16th century</dcterms:temporal>
+    <dcterms:temporal>16th century</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729624/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729624</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:737288/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

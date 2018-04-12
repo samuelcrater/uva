@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:620613</dcterms:identifier>
+    <dcterms:title>Rowland Winn, M.P.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Pellegrini, Carlo, 1839 - 1889</dcterms:creator>
+    <dcterms:created>1874-08-29</dcterms:created>
+    <dcterms:description>Caption: "the Lash"</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Chromolithography</dcterms:subject>
+    <dcterms:subject>Politicians</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Cecil Lang Collection of Vanity Fair Illustrations</dcterms:isPartOf>
+    <edm:hasType>chromolithographs</edm:hasType>
+    <edm:hasType>caricatures</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:620613/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:620613</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620613/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

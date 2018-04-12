@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:777193</dcterms:identifier>
+    <dcterms:title>Battles of Mexico : survey of the line of operations of the U.S Army, under the command of Major General Winfield Scott, on the 19th. &amp; 20th. August &amp; on the 8th. 12th. &amp; 13th. September, 1847.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>McClellan, George B. (George Brinton), 1826-1885</dcterms:creator>
+    <dcterms:created>1848</dcterms:created>
+    <dcterms:extent>1 map : hand col. ; 60 x 86 cm. on sheet 68 x 97 cm.</dcterms:extent>
+    <dcterms:publisher>s.n.</dcterms:publisher>
+    <dcterms:subject>Mexican War, 1846-1848</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:temporal>American occupation, 1847-1848</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:777193/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777193</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1183509/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

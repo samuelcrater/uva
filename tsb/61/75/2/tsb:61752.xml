@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:61752</dcterms:identifier>
+    <dcterms:title>Memoirs of Robert E. Lee; his military and personal history, embracing a large amount of information hitherto unpublished,</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Long, A. L. (Armistead Lindsay), 1827-1891</dcterms:creator>
+    <dcterms:created>1886</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 p. l., 707 p. front., illus., plates, ports., maps (3 fold.) facsim. 25 cm.</dcterms:extent>
+    <dcterms:publisher>J. M. Stoddart &amp; Company</dcterms:publisher>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Lee, Robert E. (Robert Edward)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>biography</edm:hasType>
+    <edm:hasType>Inscriptions (Provenance)</edm:hasType>
+    <edm:hasType>Marginalia (Provenance)</edm:hasType>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61752/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61752</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1668646/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

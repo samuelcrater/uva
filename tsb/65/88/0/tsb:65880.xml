@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65880</dcterms:identifier>
+    <dcterms:title>A book of entries: containing perfect and approved presidents of counts, declarations, informations, pleints, indictments, barres, replications, rejoynders, pleadings, processes, continuances, essoines, issues, defaults, departure in despight of the court, demurrers, trials, judgements, executions, and all other matters and proceedings (in effect) concerning the practick part of the laws of England, in actions real, personal, and mixt, and in appeals. Being very necessary to be known, and of excellent use for the modern practice of the law, many of them containing matters in law, and points of great learning.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Coke, Edward, Sir, 1552-1634</dcterms:creator>
+    <dcterms:created>1671</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>9 p. l., 713 numb. l., [17] p. 36 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by John Streater, James Flesher, and Henry Twyford, assigns of Richard Atkins and Edward Atkins [etc.]</dcterms:publisher>
+    <dcterms:subject>Pleading</dcterms:subject>
+    <dcterms:subject>Forms (Law)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:language>lat</dcterms:language>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65880/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65880</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2386974/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

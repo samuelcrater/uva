@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1110636</dcterms:identifier>
+    <dcterms:title>Le tombeau de Marguerite de Valois, royne de Nauarre</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1551</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[104] leaves ; ill. : 18 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>De l'imprimerie de Michel Fezandat, &amp; Robert GranIon  ...</dcterms:publisher>
+    <dcterms:subject>Marguerite</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:language>gre</dcterms:language>
+    <dcterms:language>ita</dcterms:language>
+    <dcterms:language>lat</dcterms:language>
+    <edm:hasType>biography</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1110636/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1110636</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1116645/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

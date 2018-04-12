@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168719</dcterms:identifier>
+    <dcterms:title>School of Medicine, Fourth Year Class, 1967</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+    <dcterms:created>1967</dcterms:created>
+    <dcterms:description>First row (l to r): Brian King, Paul Roy Yoder, John Rees Dunn, John Anthony Thomas, Donald
+Barry Nolan, Charles Henry Emerson, Robert Lindsay Burger, Robert Stanley Brown, Washington Carlyle
+Winn, Richard Thomas Edwards, III, Edgar Lambert Allport, David Michael Murphy, Joseph Franklin
+Smiddy. Second row (l to r): Edward Blease Eadie, Jr., John Carl Spivey, Jr., James Sidney Smith,
+Harold Prebble Settle, Jr., Roy Winston Lutz, Gordon Boyd Newell, Terrence Michael Murphy, Bonnie
+Louis Reshefsky, Bruce McKinley Birch, Charles Arthur Whelan, Norman Louis Burak, William Joseph
+Kagey, George Phillip Hillen, III, Robert Ray Henderson, Omer Lee Jeter, Jr. Third row (l to r):
+Charles Samuel Betts, III, Vivian Winoma Pinn, Rick Allen Moore, RIchard Titus D'Alonzo, Walter
+Lee King, William Wood Gough, Kenneth Edward Greer, Jeffrey Philip Robbins, Thomas Linwood Perry,
+William Keath May, Thomas Eugene Boschen, Edward Gerald Abramson, Robert Eugene Searle, Allen Martin
+Glasgow. Fourth row (l to r): Warden Hamlin Emory, Gordon Humphreys Smith, William Emory Cooley,
+Jr., Louis Sutherland Allen, Jr., William Grier Kepler, Gary Calvert Jobin, James Ellis Dill, David
+William Scott, III, Macdonald Dick, II, John Brantley Sydnor, Richard Hoppe Briggs, John Markle
+Costenbader, Douglas Stephen Rowe, George Z. Seiters. Fifth row (l to r): Igor Magier, Samuel
+Morgenstern LeBauer, Ernest Perry Buxton, III, Bryan Tighe Woods, John Lewis Starling, Henry
+Claiborne Hawthorne, Jr., Thad Leroy Jones, George William Booze, David Rinser Bickers.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168719/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168719</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168719/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

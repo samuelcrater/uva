@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1002916</dcterms:identifier>
+    <dcterms:title>Le recueil Iehan Marot de Caen, poete &amp; escripuain de la magnanime royne Anne de Bretaigne, &amp; depuys Valet de chambre du treschrestie[n] roy Francoys premier de ce nom. .</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Marot, Jean, 1463-1523</dcterms:creator>
+    <dcterms:created>1536</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[86] p. ; 13 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>On les vend à Paris en la rue sainct Iaques chez Iehan petit à l'enseigne de la Fleur de liz</dcterms:publisher>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002916/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002916</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:864785/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

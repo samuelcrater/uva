@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:329061</dcterms:identifier>
+    <dcterms:title>Exhibits, Home Makers Clubs at Ruthville Graded School.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Davis, Jackson, 1882-1947</dcterms:creator>
+    <dcterms:created>1915/1947</dcterms:created>
+    <dcterms:description>Full view, girls and teachers in front of school</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:medium>photography</dcterms:medium>
+    <dcterms:extent>4 x 6 in.</dcterms:extent>
+    <dcterms:subject>Ruthville (Va.)</dcterms:subject>
+    <dcterms:subject>Charles City County (Va.)</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Ruthville Graded School (Ruthville (Va.))</dcterms:subject>
+    <dcterms:subject>Schools</dcterms:subject>
+    <dcterms:subject>Institutional buildings</dcterms:subject>
+    <dcterms:subject>Buildings</dcterms:subject>
+    <dcterms:subject>Education</dcterms:subject>
+    <dcterms:subject>South (U.S.)</dcterms:subject>
+    <dcterms:subject>African Americans</dcterms:subject>
+    <dcterms:subject>Girls</dcterms:subject>
+    <dcterms:subject>Teachers</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
+    <edm:hasType>Negatives</edm:hasType>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:329061/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:329061</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:329061/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

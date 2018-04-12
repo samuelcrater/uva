@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1004185</dcterms:identifier>
+    <dcterms:title>British colonies in North America, from the best authorities</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Dilly, Charles, 1739-1807</dcterms:creator>
+    <dcterms:created>1800</dcterms:created>
+    <dcterms:extent>1 map ; 18 x 23 cm. on sheet 22 x 26 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for G.G. and J. Robinson, and J. Mawman (successor to Mr. Dilly), by S. Hamilton</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004185/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004185</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096690/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

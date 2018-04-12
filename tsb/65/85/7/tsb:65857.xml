@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65857</dcterms:identifier>
+    <dcterms:title>An historical treatise of a suit in equity: in which is attempted a scientific deduction of the preceedings used on the equity sides of the courts of Chancery and Exchequer, from the commencement of the suit to the decree and appeal; with occasional remarks on their import and efficacy; and an introductory discourse on the rise and progress of the equitable jurisdiction of those courts.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Barton, Charles, 1768-1843</dcterms:creator>
+    <dcterms:created>1796</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[42], 227, [14] p. 22 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for W. Clarke</dcterms:publisher>
+    <dcterms:subject>Equity pleading and procedure</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65857/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65857</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2375322/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

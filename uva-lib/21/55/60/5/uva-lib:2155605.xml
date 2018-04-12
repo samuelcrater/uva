@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2155605</dcterms:identifier>
+    <dcterms:title>ROTC Army</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+    <dcterms:created>1956-05-13</dcterms:created>
+    <dcterms:description>Notation on back, "Mayor Sol B. Weinberg (in dark suit) hands to Lieutenant Colonel Norman S. Slater, professor of military science and tactics for the Army ROTC at the University of Virginia, a copy of his proclamation urging the people of Charlottesville to observe Armed Forces Day on May 19.  Present during the cermony were (left to right) Captain C.R. Martin, U.S. Marine Corps; Captain Richard W. Smith, of the University's Naval ROTC; Weinberg; Colonel Slater; Colonel Earl R. Tash, of the University's Air Force ROTC; and Lieutenant Commander Robert F. Lyle, U.S. Naval Reserve.  Eight University of Virginia Army, Navy and Air Force units will be among those in the parade down Charlottesville's Main Street in the afternoon of May 19."</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2155605/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2155605</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2155605/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

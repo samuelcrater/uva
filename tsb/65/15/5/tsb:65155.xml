@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65155</dcterms:identifier>
+    <dcterms:title>Life on a mediaeval barony; a picture of a typical feudal community in the thirteenth century,</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Davis, William Stearns, 1877-1930</dcterms:creator>
+    <dcterms:created>1923</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xi, 414 p. front., illus., plates, port. 22 cm.</dcterms:extent>
+    <dcterms:publisher>Harper</dcterms:publisher>
+    <dcterms:subject>Feudalism</dcterms:subject>
+    <dcterms:subject>Chivalry</dcterms:subject>
+    <dcterms:subject>Civilization, Medieval</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65155/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65155</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2138487/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

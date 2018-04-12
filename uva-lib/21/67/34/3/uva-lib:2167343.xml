@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2167343</dcterms:identifier>
+    <dcterms:title>Dr. Carl C. Speidel</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1964-05</dcterms:created>
+    <dcterms:description>From the Medical Alumni News Letter, May 1964: "When Dr. Carl C. Speidel, Professor of
+Anatomy at the University of Virginia School of Medicine, retires on June 30, he will end the
+longest tenure of any member of the medical faculty,....forty-four years, with last thirty-three as
+a full professor.... He is especially noted for the ingenuity with which he has used familiar
+instruments -- the microscope and the movie camera -- to reveal important facts about cells. Because
+he was the first to learn all the secrets of nerve growth by studying nerves inside animal
+organisms, thus settling a scientific controversy that had lasted for seventy years, he received the
+coveted $1,000 prize of the American Association for the Advancement of Science, given for 'a
+notable contribution to science.' The presentation was made at the annual meeting of the
+Association in New Orleans on January 1, 1932. Dr. Speidel was thirty-eight at the time, and had
+just been made a full professor. Professor G. H. Parker of Harvard University, chairman of the
+committee to select the winner, said: 'Dr. Speidel has proved once and for all that nerves do
+not grow as a result of cells forming a chain, but that each nerve grows out of a single cell in a
+central nervous system. This establishes the "outgrowth theory" of nerves as opposed to
+the "chain theory."' No one had been able to check the out-growth on a living animal
+before. Dr. Speidel started to study the development of the nerves by entirely novel methods, using
+the dark-field illumination method to study nerves in the living animal. Instead of the light coming
+from above the microscope, h e had the light come from the sides, resulting in better visibility.
+Thus over a period of weeks he was able to see what nerves branch out from the spiral column and
+spread, like the roots and branches of a plant, into all parts of the body. He found that nerves
+went almost uncannily to the place they were intended for, and that they were quite sensitive to
+their environment, with exploratory processes being continually sent out and retracted. His lighting
+method also enabled him to see that a cut nerve cannot be spliced and made to function again,-- that
+new nerve material must grow out from the root to repair the damage. Dr. Speidel's discovery
+was heralded, not only in scientific journals, but as the 'lead' story on the front page
+of the New York TIMES of January 2, 1932, with headlines proclaiming 'Dr. C. C. SPEIDEL WINS
+SCIENCE PRIZE -- FINDS NERVE SECRETS SOUGHT FOR 70 YEARS: "CHAIN" THEORY IS UPSET --
+Strands Are Found to Start from Single Cells and Explore Their Way Past Obstacles.' This was
+big news, exciting news, in 1932. TIME Magazine featured Dr. Speidel's achievement as a major
+scientific break-through, and in its issue of January 11, 1932 carried a story of his winning the A.
+A. A. S. award with a typical TIME heading: 'Carl Caskey Speidel...looked into a tadpole's
+tail.' This was one of many brilliant achievements which have brought honors and awards to Dr.
+Speidel. His fields of original investigations have included experimental studies of nerve fibers,
+sense organs, muscle fibers, hyperthyroidism, neuro-secretion, blood cells; effects of radiation
+(X-Ray and ultraviolet) on cells; and microscopic movies of cell behavior (made directly from the
+experimental animals).... Dr. Speidel was born on October 26, 1893 in Washington, D.C. He received
+the Ph.B. degree from Lafayette College in 1914, and Ph.D. degree in biology from Princeton
+University in 1918...."</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>Health System</dcterms:subject>
+    <dcterms:subject>Press coverage</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2167343/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2167343</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2167343/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

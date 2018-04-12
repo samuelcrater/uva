@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168535</dcterms:identifier>
+    <dcterms:title>Second Year Class, 1926-1927</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1926/1927</dcterms:created>
+    <dcterms:description>SOM, Class of 1929 Students unidentifed. Student roster in alphabetical order, not as appears
+in photos. Walter J. Allegree, Thomas L. Allman, Dewey L. Anderson, James P. Baker Jr., Wilbur A.
+Barker, John W. Bolen, Thomas Bradley, Francis L. Byers, Aubrey R. Carter, Hower R. Coleman Jr.,
+Carl C. Cooley, Frank D. Costenbader, John M. C. Covington, Belle B. Dale, Alva D. Daughton, John R.
+Eggleston, Muarice M. Fliess, Hagop Gasparian, Arthur E. Glover, John M. Green, John H. Greene,
+Charles S. Groseclose, Eugene S. Groseclose, Donald O. Hamblin, Tarring W. Heironimus Jr., Guy W.
+Horsley, William C. Hutcheson, Troy H. Hutchinson, Jed J. Irvine, Eric F. Joslin, Charles Kavovit,
+Thomas C. Lawford, Maurice L. LeBauer, Sidney F. LeBauer, Meyer H. Legum, Archibald A. Little, Henry
+W. Litvack, Robert B. Lobban, Jules R. London, James L. Long, Robert W.C. McClanahan, Paul R.
+McFadyen, Alexander T. Mayo, Jose Menedez, Alberto Navaroo, Paul Otto, Minor B. Payne, Robert T.
+Peirce Jr., Robert E. Peyton, Frederick Pilcher Jr., John A. Pilcher Jr., Charles L. Savage, Lillie
+S. Shenk, Joseph M. Sloan, William C. Stephenson Jr., Christopher M. Turman Jr., Oliver L. Von
+Canon, John D. D. Ware, Hyman B. Weinberg, Harrison R. Wesson, Julius E. West, Isaac H. White,
+William L. Williams, Herbert D. Wolff, Jr., Bascom B. Young,</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168535/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168535</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168535/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

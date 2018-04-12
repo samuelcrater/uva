@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2245071</dcterms:identifier>
+    <dcterms:title>The poor unhappy transported felon's sorrowful account of his 14 years transportation at Virginia, in America. : In six parts. : Being a remarkable and succinct history of the life of John Lauson, who was put apprentice by his father to a cooper in the city of Bristol, where he got into bad company, and went a robbing with a gang of thieves, but his master got him back, yet he would not be kept from his old companions, but went a thieving with them again, for which he was transported for fourteen years. : With an account of the way the transports work, and the punishment they receive for committing any fault. : Concluding with a word of advice to all young men to be upon their guard, lest they go through the hardships he went through.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Lauson, John.</dcterms:creator>
+    <dcterms:created>1780</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>8 p. ; 17 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by G. Cass, where shopkeepers and travellers may be supplied with variety of godly books</dcterms:publisher>
+    <dcterms:subject>Exile</dcterms:subject>
+    <dcterms:subject>Contract labor</dcterms:subject>
+    <dcterms:subject>Indentured servants</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Lauson, John</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>Bridgwater</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>biography</edm:hasType>
+    <edm:hasType>Autobiographies-Great Britain-18th century.</edm:hasType>
+    <edm:hasType>Autobiographies-Virginia-18th century.</edm:hasType>
+    <edm:hasType>Poems-Great Britain-18th century.</edm:hasType>
+    <edm:hasType>Poems-Virginia-18th century.</edm:hasType>
+    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2245071/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2245071</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2246214/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

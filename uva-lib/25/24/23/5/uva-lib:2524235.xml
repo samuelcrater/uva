@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2524235</dcterms:identifier>
+    <dcterms:title>Acousticon electric hearing apparatus</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>General Acoustics</dcterms:creator>
+    <dcterms:created>1905/1930</dcterms:created>
+    <dcterms:description>The Acousticon brand hearing aid set includes: an acoustic handle (2 prong), an acousticon battery, a hearing apparatus, a headset, and a case.</dcterms:description>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>leather</dcterms:medium>
+    <dcterms:medium>cloth</dcterms:medium>
+    <dcterms:extent>12.2 x 21.4 x 8 cm</dcterms:extent>
+    <dcterms:subject>Hearing aids</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>hearing aids</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524235/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524235</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524235/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

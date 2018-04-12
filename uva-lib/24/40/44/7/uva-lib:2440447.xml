@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440447</dcterms:identifier>
+    <dcterms:title>Apothecary scale</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1880/1900</dcterms:created>
+    <dcterms:description>This instrument was owned by Dr. James E. Copeland (1845-1937) of Round Hill, Virginia. It was donated to the University of Virginia by Copeland's grandson, Edward V. Copeland, in 1971. Contained in wooden and fabric box; J.E. Copeland, handwritten on bottom of box; two-plate apothecary scale.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:subject>Scales (Weighing instruments)</dcterms:subject>
+    <dcterms:subject>Technology, Pharmaceutical</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>prescription scales</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440447/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440447</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440447/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

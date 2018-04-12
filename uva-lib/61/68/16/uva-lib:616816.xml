@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:616816</dcterms:identifier>
+    <dcterms:title>Carte d'une partie des côtes de la Floride et de la Louisiane : contenant le cours du Mississipi, depuis ses embouchures jusqu'à la Riviere Rouge, l'entrée de la Mobile, et les Baies de Pensacola, de Ste. Rose et de S. Joseph</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1780</dcterms:created>
+    <dcterms:extent>2 maps on 1 sheet : hand col. ; maps 40 x 58 cm. (Carte d'une partie des côtes) and 58 x 40 cm. (Carte réduite des c*ôtes) on sheet 63 x 95 cm.</dcterms:extent>
+    <dcterms:publisher>Dépôt général de la marine</dcterms:publisher>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>fre</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616816/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616816</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:620402/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

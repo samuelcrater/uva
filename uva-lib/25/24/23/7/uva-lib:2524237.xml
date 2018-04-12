@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2524237</dcterms:identifier>
+    <dcterms:title>Tracheonomy set</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>R. and H. Mathieu Fils</dcterms:creator>
+    <dcterms:created>1905/1910</dcterms:created>
+    <dcterms:description>The set is contained in case with the following text stamped on the interior: "Maison L. Mathieu R&amp; H Matheiu Fils Sr5. 113 Bard Street Germain Paris". The set includes the following items: forceps mathieu, 17; unidentified instrument, mathieu 4; tracheotomy tube, 3.5 cm MAT [_]L 2 9 0; tracheonomy tube, 5 cm; tracheonmy tube, 4.5 cm;  tracheonomy tube insert, 4.5 cm; tracheonomy tube, 4 cm;   tracheonomy tube, 3cm; unidentified wooden instrument.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:extent>5 x 24 x 11 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524237/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524237</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524237/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

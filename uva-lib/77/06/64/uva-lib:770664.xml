@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:770664</dcterms:identifier>
+    <dcterms:title>Papers of Edgar Allan Poe</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
+    <dcterms:created>1836/1955</dcterms:created>
+    <dcterms:description>The collection includes one manuscript by Poe, a fragment of "The Rational of Verse."</dcterms:description>
+    <dcterms:medium>manuscript</dcterms:medium>
+    <dcterms:extent>32 items.</dcterms:extent>
+    <dcterms:subject>Periodicals</dcterms:subject>
+    <dcterms:subject>Allan, John/</dcterms:subject>
+    <dcterms:subject>Clemm, William/</dcterms:subject>
+    <dcterms:subject>Fletcher, Vernon/</dcterms:subject>
+    <dcterms:subject>Graham, George R/</dcterms:subject>
+    <dcterms:subject>Lewis, Estelle Anna Robinson/</dcterms:subject>
+    <dcterms:subject>Poe, Edgar Allan/</dcterms:subject>
+    <dcterms:subject>Poe, Edgar Allan/</dcterms:subject>
+    <dcterms:subject>Poe, Edgar Allan/</dcterms:subject>
+    <dcterms:subject>Redfield, Justus Starr/</dcterms:subject>
+    <dcterms:subject>Richmond, Caddie/</dcterms:subject>
+    <dcterms:subject>Richmond, Nancy Locke Heywood, d1820-1898/</dcterms:subject>
+    <dcterms:subject>Poe, Edgar Allan/</dcterms:subject>
+    <dcterms:subject>Harper &amp; Brothers.</dcterms:subject>
+    <dcterms:type>mixed material</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Illustrations.</edm:hasType>
+    <edm:hasType>Letters (Correspondence)</edm:hasType>
+    <edm:hasType>Receipts.</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770664/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770664</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:925425/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

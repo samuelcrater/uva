@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65866</dcterms:identifier>
+    <dcterms:title>Thesaurus brevium. Or, A collection of approved forms of writs, and pleadings to those writs, and entries of those writs and pleadings: together with their special directions to all cities and boroughs. Also, an exact table of the writs and pleadings therein contained ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1687</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[32], 310, [82] p. 31 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by W. Rawlins, S. Roycroft and M. Flesher, assigns of Richard and Edward Atkins, esquires, for T. Basset, R. Clavel, T. Dring, J. Robinson, A. Churchill, and S. Leigh</dcterms:publisher>
+    <dcterms:subject>Writs</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65866/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65866</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2378599/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

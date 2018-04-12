@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2165638</dcterms:identifier>
+    <dcterms:title>Virginia Law Review 1924-1925</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1924/1925</dcterms:created>
+    <dcterms:description>Including members of the Class of 1925, Class of 1926, Class of 1927 and Class of 1928.  Thomas M. Anderson, Walter L. Brown, Leonard J. Calhoun, W. Alonzo Carter, Jr., LeRoy R. Cohen, Paul H. Coleman, Edwin H. Copenhaver, Jr., William N. Ellis, Otho E. Falls, Jr., Mansfield C. Fuldner, Claude L. Gray, J. O'Dell Gregory, Robert C. Grove, Richard W. Hagan, Jr., Edwin D. Kyle, Jr., J. M. B. Lewis, Jr., Frederick J. Lotterhos, James B. Lovelace, Jr., John M. Manning, LeRoy H. Margolius, C. Venable Minor, Charles P. Nash, Nathan H. Nelson, Nathan S. Poffenbarger, George P. Raney, Jr., Clarence W. Robinson, Jr., Henry Savage, Jr., F. Virginius Watkins, W. Erskine Watkins, Bert G. Wetherby, R. Harral Whilden, F. Black Whitescarver.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2165638/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2165638</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2165638/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

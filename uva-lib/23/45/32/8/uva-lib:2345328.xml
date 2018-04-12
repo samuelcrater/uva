@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2345328</dcterms:identifier>
+    <dcterms:title>Relacion historica del viage a la America Meridional hecho de orden de S. Mag. para medir algunos grados de meridiano terrestre, y venir por ellos en conocimiento de la verdadera figura, y magnitud de la tierra, con otras varias observaciones astronomicas, y phisicas</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Ulloa, Antonio de, 1716-1795</dcterms:creator>
+    <dcterms:created>1748</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>4 v. in 2 pt. fronts., illus., 20 fold. pl. incl. ports. 14 fold. maps and plans. 31 cm.</dcterms:extent>
+    <dcterms:publisher>Aporntonio Marin</dcterms:publisher>
+    <dcterms:subject>Scientific expeditions</dcterms:subject>
+    <dcterms:subject>Arc measures</dcterms:subject>
+    <dcterms:subject>Description and travel</dcterms:subject>
+    <dcterms:subject>Social life and customs</dcterms:subject>
+    <dcterms:subject>Colonies</dcterms:subject>
+    <dcterms:subject>Figure</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>spa</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2345328/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2345328</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2406240/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

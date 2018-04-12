@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2062778</dcterms:identifier>
+    <dcterms:title>Hydrographica, planeque Nova Indiae Occidentalis, Guinea, Regni Congo, Angole &amp;c. delineatio</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Claesz, Cornelis, approximately 1546-1609</dcterms:creator>
+    <dcterms:created>1603</dcterms:created>
+    <dcterms:extent>1 map in 4 sheets ; 84 x 100 cm.</dcterms:extent>
+    <dcterms:publisher>Cornelis de Claesz</dcterms:publisher>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>Netherlands</dcterms:spatial>
+    <dcterms:spatial>Amsterdam</dcterms:spatial>
+    <dcterms:language>lat</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2062778/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2062778</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2145694/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

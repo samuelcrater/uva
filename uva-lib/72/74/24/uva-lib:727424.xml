@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:727424</dcterms:identifier>
+    <dcterms:title>Sensuiuent Les blasons anatomiques du corps fémenin, : ensemble les contreblasons de nouueau composez, &amp; additionez, auec les figures, le tout mis par ordre:</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1543</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>86, [2] leaves : ill. ; 12 cm. (16mo)</dcterms:extent>
+    <dcterms:publisher>Pour Charles Langelier</dcterms:publisher>
+    <dcterms:subject>French poetry</dcterms:subject>
+    <dcterms:subject>Beauty, Personal</dcterms:subject>
+    <dcterms:subject>Women</dcterms:subject>
+    <dcterms:subject>Human body</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:temporal>16th century</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:727424/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:727424</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:707092/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

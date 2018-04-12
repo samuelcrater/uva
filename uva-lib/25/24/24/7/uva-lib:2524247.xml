@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2524247</dcterms:identifier>
+    <dcterms:title>Audiometer replica</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Dr. R. Quisling</dcterms:creator>
+    <dcterms:created>1950/1999</dcterms:created>
+    <dcterms:description>One of the first audiometers was developed by David Edward Hughes in 1879 using an induction coil system.  A commercial version was manufactured by Thomas Hawsley around 1885 in London, England. This replica was built by Dr. R. Quisling of Harrisonburg, Virginia, during the mid to late 20th century.</dcterms:description>
+    <dcterms:medium>wood</dcterms:medium>
+    <dcterms:medium>wire</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:extent>13.7 x 8.4 x 34 cm</dcterms:extent>
+    <dcterms:subject>audiometers</dcterms:subject>
+    <dcterms:subject>models (representations)</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>replicas</edm:hasType>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524247/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524247</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524247/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

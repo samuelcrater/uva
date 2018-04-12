@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1039376</dcterms:identifier>
+    <dcterms:title>A Literary Party at Sir. Joshua Reynolds</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Walker, William, 1791-1867</dcterms:creator>
+    <dcterms:creator>Holsinger, Rufus W., 1866-1930</dcterms:creator>
+    <dcterms:created>1848-07-01</dcterms:created>
+    <dcterms:description>[A literary party at Sir. Joshua Reynolds] / engraved by Wm. Walker from a picture by James E. Doyle in the possession of James Prior Esqre. F.A.S. Group portrait of nine men seated around a table set with fruit and decanters; they are served by a black page. Boswell is on the left, with Johnson to his right talking to Edmund Burke; Reynolds is seated across from Johnson and listens with a trumpet to his ear. Garrick to the left of Reynolds faces the viewer, while Pasquale Paoli to his left observes Johnson conversing at the far end of the table. Charles Burney across from Paoli also follows the same conversation, as he rests his right hand on his chin. Next to Paoli, Warton leans toward Oliver Goldsmith who sits at the head of the table on the right; Warton holds his hand up towards his mouth as if to keep his words confidential. The room is richly decorated with a Japanese screen on the right, curtains, a miniature portrait, and a portrait bust on a pedestal on the left; Reynolds' pictures of Puck (Mannings 2142) and the Infant Academy (Mannings 2092) hanging on the wall and a bright chandelier hangs above the table. London : Published July 1st 1848 by the proprietors Wm. Walker, 64 Margaret St., Cavendish Sqre., &amp; Owen Bailey, 128 Seymour St. Euston Sqre, [1 July 1848].</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:extent>14 x 17 in.</dcterms:extent>
+    <dcterms:subject>Prints</dcterms:subject>
+    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
+    <edm:hasType>Glass negatives</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1039376/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1039376</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1039376/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

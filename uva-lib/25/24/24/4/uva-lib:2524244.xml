@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2524244</dcterms:identifier>
+    <dcterms:title>Cupping set</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1820/1850</dcterms:created>
+    <dcterms:description>This cupping set was owned and used by Drs. Benjamin Smith Middleton and Benjamin Arthur Middleton of Emmerton, Virginia. The wooden box that holds the set is lined with blue-green velvet and has space for 6 cupping glasses, box is 8" x 5.25" x 4". Set includes 5 cupping glasses and 7 blade scarificator in a red box. Two illegible words and the word "Philadelphia" are stamped on the scarificator.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:medium>cloth</dcterms:medium>
+    <dcterms:extent>10 x 20.2 x 13.3 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524244/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524244</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524244/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

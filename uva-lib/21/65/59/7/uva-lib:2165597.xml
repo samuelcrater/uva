@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2165597</dcterms:identifier>
+    <dcterms:title>School of Law faculty</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+    <dcterms:created>1960/1961</dcterms:created>
+    <dcterms:description>Front row, left to right:  Hardy C. Dillard, Class of 1927, fourth Dean of the School of Law [1963-1968]; Carl McFarland; Thomas M. Boyd, Class of 1923; F. D. G. Ribble, Class of 1921, third Dean of the School of Law [1939-1963]; Charles P. Nash, Class of 1925; Charles O. Gregory; and A. J. Gustin Priest.  Second row, left to right:  Kenneth R. Redden, Class of 1940; M. Lindsey Cowen, Class of 1947; Mortimer M. Caplin, Class of 1940; Francis Farmer, Law Librarian; Patterson, Marion K. Kellogg; and Emerson Spies, sixth Dean of the School of Law [1976-1980].  Third row:  John C. McCoid; George R. St. John; Peter C. Manson; Edward A. Mearns, Jr., Class of 1958; Cornelius F. Murphy, Jr.; Daniel J. Meador; and Neill H. Alford, Class of 1947.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2165597/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2165597</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2165597/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

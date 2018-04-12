@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003631</dcterms:identifier>
+    <dcterms:title>A new map of Germany, Hungary, Transilvania &amp; the Suisse cantons. : with many remarks not extant in any map.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:created>1730</dcterms:created>
+    <dcterms:extent>1 map : col. ; 61 x 100 on sheet 63 x 107.</dcterms:extent>
+    <dcterms:publisher>Printed for H. Moll between Temple Bar &amp; St Clements Church in ye Strand, I Bowles Print and Map Seller at the Black Horse in Cornhill and by P Overton Mapp &amp; Print seller near St. Dunstans Church in Fleet Street, and T. Boules Print &amp; Mapp seller next to ye Chapter house in St. Pauls Church Yard and by Iohn King Print and Map Seller at the Globe in the Poultry.</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003631/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003631</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:906135/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

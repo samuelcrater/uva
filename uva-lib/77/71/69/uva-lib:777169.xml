@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:777169</dcterms:identifier>
+    <dcterms:title>Hecatongraphie. : C'est à dire les descriptions de cent figures &amp; hystoires, contenants plusieurs appophthegmes, prouerbes, sentences &amp; dictz tant des anciens, que des modernes.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Corrozet, Gilles, 1510-1568</dcterms:creator>
+    <dcterms:created>1543</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[208] p. : ill. ; 16 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>chez Denys Ianot Imprimeur &amp; Libraire</dcterms:publisher>
+    <dcterms:subject>Aphorisms and apothegms</dcterms:subject>
+    <dcterms:subject>Emblem books</dcterms:subject>
+    <dcterms:subject>Emblem books, French</dcterms:subject>
+    <dcterms:subject>Maxims, French</dcterms:subject>
+    <dcterms:subject>Wood-engraving, French</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:777169/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777169</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:815493/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

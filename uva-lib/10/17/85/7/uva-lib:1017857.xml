@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1017857</dcterms:identifier>
+    <dcterms:title>Discours merueilleux de la vie, actions &amp; deportemens de Catherine de Medicis Royne mere, : auquel sont recitez les moyens qu'elle a tenu pour vsurper le gouuernement du Royaume de France, &amp; ruiner l'estat d'iceluy.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Estienne, Henri, 1531-1598</dcterms:creator>
+    <dcterms:created>1575</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>164 p. ; 18 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>s.n.]</dcterms:publisher>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Catherine de Médicis</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <edm:hasType>biography</edm:hasType>
+    <dcterms:temporal>Charles IX, 1560-1574</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017857/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017857</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1024163/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

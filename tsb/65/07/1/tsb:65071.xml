@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65071</dcterms:identifier>
+    <dcterms:title>Staatsschriften und Briefe : Auswahl in zwei Bänden</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Gentz, Friedrich von, 1764-1832</dcterms:creator>
+    <dcterms:created>1921</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. : ill. ; 19 cm.</dcterms:extent>
+    <dcterms:publisher>Drei Masken</dcterms:publisher>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>ger</dcterms:language>
+    <dcterms:temporal>1789-1900</dcterms:temporal>
+    <dcterms:temporal>1789-1900</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65071/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65071</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2106283/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65851</dcterms:identifier>
+    <dcterms:title>Notes of cases in points of practice, taken in the Court of Common Pleas at Westminister, from Michaelmas term, 1732, to Hilary term, 1756, inclusive.  Published with the approbation of the judges of the said court.  To which is added, a continuation of cases to the end of the reign of King George the Second.  With a table, containing the names of the cases, and an index of the principal matters.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1790</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xxxii, 500, [41] p. 24 cm.</dcterms:extent>
+    <dcterms:publisher>E. and R. Brooke</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65851/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65851</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2373622/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

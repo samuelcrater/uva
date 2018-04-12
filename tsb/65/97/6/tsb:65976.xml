@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65976</dcterms:identifier>
+    <dcterms:title>Reports of divers resolutions in law, arising upon cases in the Court of Wards, and other courts at Westminster, in the reigns of the late kings, King James and King Charles. [1608-1629]</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1659</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 p. l., 83, [7], 27 p. 30 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by Tho. Roycroft for H. Twyford, Tho. Dring, and Jo. Place</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
+    <dcterms:subject>Land tenure</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65976/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65976</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2445145/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

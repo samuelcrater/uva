@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65964</dcterms:identifier>
+    <dcterms:title>The reports of that reverend and learned judge, the Right Honourable Sr Henry Hobart, knight and baronet, lord chief justice of his Majesty's Court of Common Pleas, and chancellor to both their highnesses Henry and Charles, princes of Wales. [1603-1625]</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1724</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>7 p. l., 350, [63] p. 35 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by E. and R. Nutt and R. Gosling, for R. Gosling and T. Ward</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65964/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65964</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2438641/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65882</dcterms:identifier>
+    <dcterms:title>The reports of Sir Edward Coke, Knt. in English, in thirteen parts complete, with references to all the ancient and modern books of law, exactly translated and compared with the First and last edition in French, and printed page by page with the same. [1572-1616] to which are now added, the restrictive pleadings, in English</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Coke, Edward, Sir, 1552-1634</dcterms:creator>
+    <dcterms:created>1776/1777</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>7 v. ; 24 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for W. Owen, G. Kearsley [et al.]</dcterms:publisher>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:language>fre</dcterms:language>
+    <edm:hasType>law report or digest</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65882/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65882</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2389194/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

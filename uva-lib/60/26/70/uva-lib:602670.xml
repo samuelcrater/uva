@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:602670</dcterms:identifier>
+    <dcterms:title>Map of the bituminous coal fields of Alabama</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1850/1859</dcterms:created>
+    <dcterms:extent>1 map : col. ; 18 x 26 cm.</dcterms:extent>
+    <dcterms:publisher>Wagner &amp; McGuigan's Lith. 4 Franklin Pl., Phila.</dcterms:publisher>
+    <dcterms:subject>Bituminous coal</dcterms:subject>
+    <dcterms:subject>Mining districts</dcterms:subject>
+    <dcterms:subject>Coal mines and mining</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Pennsylvania</dcterms:spatial>
+    <dcterms:spatial>Philadelphia</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:602670/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:602670</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:625499/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168551</dcterms:identifier>
+    <dcterms:title>School of Medicine, First Year Class, 1930-1931</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1930/1931</dcterms:created>
+    <dcterms:description>Class of 1934 Identified (L to R): First row: George Curtis Austin, Sullivan Gale Bedell,
+George Simmerman Bourne, John Newton Bowden, Louis H. Bress, Alexander Gustavus Brown, Harry Paul
+Browning, Charles Lorraine Cabell, George Robert Carpenter, Richard Reading Chamberlain, Hugh Tucker
+Chelf, Jr.,Walter Franklin Cole, Robert Nelson Cooley, William Clark Cooper Second row: Thomas
+Wallace Cox, Jr., Richard Earle DeButts, Margaret DeRonde, Julian Booth Doss, William Clegg
+Eversole, Joseph Romeo Gentile, Joseph Edward Gladstone, Howard Clarke Glover, Noble Maxwell
+Goodloe, John Bagby Haley, Walter Douglas Hankins, Harry H. Hardeen, George Alfred Hess, William
+Rollan Hill Third row: Howard Thompson Holden, Clara Lucille Hoye, Joseph Leigh Hundley, John
+Omohundro Hurt, William Allen Johns, William Virginius King, Jr., Israel Maurice Kruger, James F.
+Lane, Armando Joseph Lauritano, Lewis Littlepage, Jr., John Fulton McGavock, Brooke Baylor Mallory,
+James Calvin Martin, Lemuel Edward Mayo, Jr. Fourth row: William Perry Moore, Hugh Page Newbill,
+Charles Collins Orr, Lawrence Pace, Roy Glenn Parks, Roy Randolph Powell, William Gilmer Puryear,
+Mary Eleanor Rawls, John Walton Ross, Jr., Mack Irvin Shanholtz, James Robert Shanklin, Richard Vair
+Shanklin, Jr., Richard Henry Smith, Charles L. Stinson Fifth row: Harry Benjamin Stone, Jr., William
+Joshua Sturgis, Jr., Thomas William Tanner, John Hansford Thomas, Jr., William Edgar Waddell, Robert
+Fletcher Watson, Harvie Lincoln Williams, Fletcher Johnston Wright, Jr.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168551/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168551</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168551/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65463</dcterms:identifier>
+    <dcterms:title>A Bookseller of the last century : being some acount of the life of John Newbery, and of the books he published, with a notice of the later Newberys</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Welsh, Charles, 1850-1914</dcterms:creator>
+    <dcterms:created>1885</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xi, [1], 373 p. : front., illus., ports., plates, fold. facsim. ; 22 cm.</dcterms:extent>
+    <dcterms:publisher>For Griffith, Farran, Okeden &amp; Welsh</dcterms:publisher>
+    <dcterms:subject>Children's literature</dcterms:subject>
+    <dcterms:subject>Newbery, John/</dcterms:subject>
+    <dcterms:subject>Newbery, firm, publishers, London.</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65463/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65463</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2255609/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440436</dcterms:identifier>
+    <dcterms:title>Pocket surgical instrument set</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1890/1900</dcterms:created>
+    <dcterms:description>Contained in leather and metal case; includes: curved sharp point bistoury - shell and metal, F.Arnold; dressing forceps - metal; scissors with one open ring - metal; artery forceps - metal, Willms; ivory handle with slide catch - ivory and metal; spring catch fenestrated artery forceps - metal; pocket case knife - shell and metal; female catheter tube - metal; grooved director - metal; curved sharp point with case bistoury - metal, Sklar Germany; male catheter - metal; dual end probe - metal; female catheter tip - metal; abscess lancet - shell and metal.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>shell (animal material)</dcterms:medium>
+    <dcterms:medium>ivory (tooth component)</dcterms:medium>
+    <dcterms:medium>leather</dcterms:medium>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440436/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440436</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440436/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

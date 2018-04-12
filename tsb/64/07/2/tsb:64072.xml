@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:64072</dcterms:identifier>
+    <dcterms:title>Lady Palmerston and her times</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Airlie, Mabell, Countess of, 1866-1956</dcterms:creator>
+    <dcterms:created>1922</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. 4 port. (incl. fronts.) 23 cm.</dcterms:extent>
+    <dcterms:publisher>Hodder and Stoughton</dcterms:publisher>
+    <dcterms:subject>Court and courtiers</dcterms:subject>
+    <dcterms:subject>Social life and customs</dcterms:subject>
+    <dcterms:subject>Palmerston, Henry John Temple</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>biography</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64072/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64072</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1845857/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

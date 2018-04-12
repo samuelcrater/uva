@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440548</dcterms:identifier>
+    <dcterms:title>Saddlebag</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1870/1900</dcterms:created>
+    <dcterms:description>This item was owned by Dr. James E. Copeland (1845-1937) of Round Hill, Virginia. It was donated to the University of Virginia by Copeland's grandson, Edward V. Copeland, in 1971. Includes medicine bottles with stoppers: Calomel, 1/2 gr/Sodium Bicarb 1/2 gr, Pil Cath Comp, 3, SPT3. AM. Arom, for Verratium Vividi (Norwoods), 3 Collodium, 3[], 3, 2001 Calcium Sulphide, F.E Ergot, chloral hydrate, pot brom, subgallette of bismouth, Kino, Bismouth S. Nit, (1) Hydrarg Chlor [] Sodium Bicarb [], 1 Santoin, 1 [], 1, Hyd. C []1, 1, 1 Hyd Celomit, 1  []le Hypodermic Tablets [] glycerine...1-100 gr, 1 [], amyl nitrite, 1 Hyd C Creta, 1 creasotum, opium &amp; Lead Acetate Rx 'B' powder opium 1-4 grams, lead acetate 3-4 gr. 506361, ammon chlorid []3, Chloroform, 3 Pot iodide, Rx (2 1/2) Hydrarg Chlor [] Sodium bicarb [], Chlor. Potass, Quiniae B[]hat quinia, acetanclide, tablet triturates of morphine sulphate 1-4.</dcterms:description>
+    <dcterms:medium>leather</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:medium>glass</dcterms:medium>
+    <dcterms:subject>Bags</dcterms:subject>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:subject>Drugs</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>saddlebags (containers)</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440548/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440548</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440548/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

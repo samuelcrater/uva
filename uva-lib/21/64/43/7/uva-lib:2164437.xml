@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2164437</dcterms:identifier>
+    <dcterms:title>UVa's Global Environmental Change Program</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Gantz, Patrick</dcterms:creator>
+    <dcterms:created>2000-11-10</dcterms:created>
+    <dcterms:description>From excerpt: Seven dignitaries from five African institutes attended a workshop at UVa to develop a comprehensive plan for research and education collaborations with UVa's Global Environmental Change Program in the Department of Environmental Sciences. The project is an outgrowth of the Southern Africa Regional Science Initiative, an international effort initiated by UVa to study land-atmosphere interactions in southern Africa. The University has been conducting research in Africa for many years; the workshop helped participating institutions strengthen their bonds and discuss ways to seek new funding sources together. 
+
+Participants at the workshop included UVa assistant professor Bob Swap; Dean of Sciences Francesco Viera, Universidade Eduardo Mondlane, Mozambique; professor Harold Annegarn, University of the Witwatersrand, Johannesburg, South Africa; Gene Block, UVa vice president for research and public service; Hank Shugart, W.W. Corcoran Professor of Environmental Sciences and director of UVa's Global Environmental Change Program; professor Bane Marjanovic, University of the Witwatersrand; Jeffrey Plank, UVa assistant vice president for research; Lars Ramberg, director of the Okavango Research Center, Maun, Botswana; Steven Macko, UVa professor of environmental sciences; and professor Pauline Opha Dube, University of Botswana. Others who also participated were Melvyn P. Leffler, UVa dean of Arts &amp; Sciences; William Quandt, UVa vice provost for international affairs; several other members of the Department of Environmental Sciences; Dean of Environmental Sciences Omara-Ojunga, University of Venda, South Africa; and Makinde, dean of Agriculture and Natural Resources, University of Venda.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Press coverage</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164437/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164437</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2164437/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

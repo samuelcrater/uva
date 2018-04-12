@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003558</dcterms:identifier>
+    <dcterms:title>The south part of Great Britain, called, England and Wales : containing all ye cities, market towns, boroughs: and whatever places have ye election of members of parliament with ye names of ye rivers, seaports, sands, hills, moors, forests &amp;c. All ye great or post roads, and principal cross-roads &amp;c. with ye computed miles from town to town and ye post towns as they are at present regulated by the Postmasters Genl. of the General Post House, according to ye most approved surveys, and accurate observations</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:created>1730</dcterms:created>
+    <dcterms:extent>1 map : col. ; 60 x 97 cm. on sheet 63 x 104 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for H. Moll over against Devereux Court without Temple Bar. I. Bowles at the Black Horse in Cornhill and Tho. Bowles Print and Mapseller next to the Chapter house in St. Pauls Church yard, by whom are to be sold thes maps done by ye said Mr. Moll ... ; Sold by Philip Overton Map and Print Seller near St. Dunstans Church Fleet street, and by John King at the Globe in the Poultry</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003558/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003558</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904698/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

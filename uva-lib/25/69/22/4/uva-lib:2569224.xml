@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2569224</dcterms:identifier>
+    <dcterms:title>Wilhelm C. Von Roentgen medallion</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1995</dcterms:created>
+    <dcterms:description>The medallion was made to commemorate the 100th anniversary of the discovery of X-rays by Wilhelm C. Von Rontgen (1845-1923). The medallion measures 2 cm x 3.8 cm x 3.8 cm. The back of the medallion reads "Roentgen Rays; An image of the invisible; discovered November 8 1895; One oz. .999 fine silver." It is encased in plastic and contained in a blue velvet-lined box. 
+   This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., Chair of the UVa Department of Radiology from 1963-1991.</dcterms:description>
+    <dcterms:medium>fine silver</dcterms:medium>
+    <dcterms:medium>cloth</dcterms:medium>
+    <dcterms:medium>plastic (organic material)</dcterms:medium>
+    <dcterms:extent>2.8 x 6.5 x 6.5 cm</dcterms:extent>
+    <dcterms:subject>Medals</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medallions (medals)</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569224/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569224</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2569224/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

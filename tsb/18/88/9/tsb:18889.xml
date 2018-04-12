@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:18889</dcterms:identifier>
+    <dcterms:title>Outline of the geology of the globe, and of the United States in particular : with two geological maps, and sketches of characteristic American fossils</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hitchcock, Edward, 1793-1864</dcterms:creator>
+    <dcterms:created>1854</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>136 pages, [8] leaves of plates (2 folded) : 2 color maps ; 22 cm</dcterms:extent>
+    <dcterms:publisher>Phillips, Sampson &amp; Company</dcterms:publisher>
+    <dcterms:subject>Geology</dcterms:subject>
+    <dcterms:subject>Geology</dcterms:subject>
+    <dcterms:subject>Geology</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18889/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18889</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518195/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

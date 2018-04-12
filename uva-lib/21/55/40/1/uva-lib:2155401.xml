@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2155401</dcterms:identifier>
+    <dcterms:title>Military officers study physics</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+    <dcterms:created>1956-06</dcterms:created>
+    <dcterms:description>Notation on back, "Ten Army officers and one Navy officer who are receiving graduate degrees in physics from the University of Virginia as part of the service program to train selected officers at civilian institutions in latest scientific developments as part of this nation's answer to Soviet threats of scientific warfare.  Dr. John J. Connelly, Jr., Syracuse, New York, a Navy lieutenant, seated at his ultracentrifuge shows the Army men how he has attained the highest man-made rotary speed of more than a million revolutions a second.  Standing are Army captains, majors, and lieutenant colonels, left to right: Morton M. Jones, Asheville, North Carolina; Herbert A. Fincher, Wedowee, Alaska; Billy M. McCormick, Cleveland, Ohio; John Bell Hughes, San Francisco, California; Dr. Patrick Joseph Kenny, Hollis, New York; Dr. Charles W. Hulbert, Anoka, Minnesota; Severino Martinez, San Antonio, Texas; Phillip J. Dolan, Jeanerette, Louisiana; David W. Einsel, Jr., Tiffin, Ohio; and William M. Hinds, Birmingham, Alabama.  The Army is sending three-fourths of its physicists in this program for advanced study at the University of Virginia."</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2155401/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2155401</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2155401/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

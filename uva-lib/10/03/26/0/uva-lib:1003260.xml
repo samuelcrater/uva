@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003260</dcterms:identifier>
+    <dcterms:title>A map of the inhabited part of Virginia containing the whole Province of Maryland with part of Pensilvania, New Jersey and North Carolina drawn by Joshua Fry &amp; Peter Jefferson in 1751</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Fry, Joshua, approximately 1700-1754</dcterms:creator>
+    <dcterms:created>1753</dcterms:created>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:extent>1 map on 4 sheets ; 78 x 120 cm folded to 16 x 20 cm</dcterms:extent>
+    <dcterms:publisher>Engrav'd and published according to Act of Parliament by Thos. Jefferys, Geographer to His Royal Highness the Prince of Wales at the corner of St. Martins Lane, Charing Cross, London</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>Great Britain</dcterms:spatial>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <edm:hasType>Maps.</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003260/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003260</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:998913/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440618</dcterms:identifier>
+    <dcterms:title>Microscope</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Paul Waechter</dcterms:creator>
+    <dcterms:created>1872/1892</dcterms:created>
+    <dcterms:description>Monocular microscope stored in a wooden box. The following text printed on the box: "Paul Waechter." "Berlin." "No. 6404" "H.B".  The following items are stored in the box: 4 eye pieces; slide, Mikroscopische Pleurosigna angulatum Sm. Institut. C. Rodig Verdienst Medaille Wien 1873 Hamburg; slide, Holisp.Diatomcen Mikroscopische R. Getschmann Berlin; slide, H.Boecker Macroglossa Hellatarum Wetzlar Mikroscopisches Institut; lens box; 3 lens; 18 microscope slides; 26 microscope slides; 22 microscope slides; microscope slide cover glasses, box of 8, 50 stuck 18 m/m; microscope slide cover glasses, box of 38; microscope slide cover glasses, box of 2; microscope slide cover glasses, box of 7; microscope magnifying table.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>glass</dcterms:medium>
+    <dcterms:subject>Microscopes</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>microscopes</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440618/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440618</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440618/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

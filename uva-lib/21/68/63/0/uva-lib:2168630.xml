@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168630</dcterms:identifier>
+    <dcterms:title>School of Medicine, First Year Class, 1944-1945</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1944/1945</dcterms:created>
+    <dcterms:description>Class of 1948. Identified left to right: First row: Norman Nathaniel Adler, Harry Paul Austin,
+Spencer Pippen Bass, Jr., William Phillips Bass, Joseph Wolfe Bear, Jr., Edward Raymond Berry,
+Russell Eldridge Blankinship, Jr., Randolph Graham Bradshaw, Quinter Milton Burnett, Charles Edwin
+Butterworth, Jr., Oswald Stephen Buyrn, Randolph Catlin, Jr. Second row: Malcolm Smith Chase, Paul
+Lowell Chodosh, William Burdette Crawford, Jr., William Bryant Crenshaw, Douglas Harman Crockett,
+Doff E. Daniel, Jr., Warren Cavill Evans, Harold Seymour Farfel, Leonard Oswell Fears, Jr., Fox,
+Edward Watts Gamble, III, Lucy Goode Garnett Third row: Edwin Wayne Gilley, James Stephen Golden,
+Jr., Calvin Ellis Greene, Elliot Clarke Haley, Glenn Claire Hall, Jr., Andrew Wentworth Hargroves,
+Jr., John Quackenbush Hatten, James Thomas Hopkins, Jr., Charles William Jennings, Benjamin Irving
+Johns, John Martin Johnson, Jr., Samuel Wharton Johnson, Jr., James Bolling Jones Fourth row: Robert
+Gillis Kindred, David Everett Leavenworth, Lyle Beuhring McGinnis, William Andrew MacIlwaine,
+Charles Elford McKay, Jr., Frederic Maccabe, Jr., Charles Taylor Marrow, Jr., Owen Nichols Meredith,
+Merwin Blanchard Moore, Jr., Jack Francis Murray, Robert Roy Murray, Jr., Kenwyn Gordon Nelson, Jr.
+Fifth row: Nick George Nicholas, Wallace Clay Nunley, John Atkinson Owen, Jr., John Thomas Payne,
+Powell Leon Perkins, James Nicholas Psimas, Sarah Elizabeth Roberts, James Beall Rodgers, Frank
+McCutchan Ryburn, Jr., William Hampden Sage, III, Joseph Lee Sedwitz, William Marco Sheppe, Jr.
+Sixth row: Ralph Wayne Shober, Walter Haines Smartt, Marshall Jerome Snapp, Clyde Vaughan Stanley,
+Jr., Mary Catherine Sturgis, Kathleen Moore Strickland, Andrew White Townes, Jr., Moffett Robson
+Walker, Jr., John Thomas White, II, John Cecil Wilkinson, Henry Harrison Wilson, Jr., James Edwin
+Wood, III</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168630/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168630</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168630/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

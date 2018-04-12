@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2210902</dcterms:identifier>
+    <dcterms:title>New English Canaan or New Canaan. : Containing an abstract of New England, composed in three bookes. The first booke setting forth the originall of the natives, their manners and customes, together with their tractable nature and love towards the English. The second booke setting forth the naturall indowments of the country, and what staple commodities it yealdeth. The third booke setting forth, what people are planted there, their prosperity, what remarkable accidents have happened since the first planting of it, together with their tenents and practice of their church.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Morton, Thomas, 1575-1646</dcterms:creator>
+    <dcterms:created>1637</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>188, [4] p. ; 19 cm (4to)</dcterms:extent>
+    <dcterms:publisher>By Jacob Frederick Stam</dcterms:publisher>
+    <dcterms:subject>Indians of North America</dcterms:subject>
+    <dcterms:subject>Indians of North America</dcterms:subject>
+    <dcterms:subject>Travel</dcterms:subject>
+    <dcterms:subject>Description and travel</dcterms:subject>
+    <dcterms:subject>Description and travel</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Netherlands</dcterms:spatial>
+    <dcterms:spatial>Amsterdam</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Early works.</edm:hasType>
+    <edm:hasType>History.</edm:hasType>
+    <edm:hasType>Sources.</edm:hasType>
+    <dcterms:temporal>1600 - 1775</dcterms:temporal>
+    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2210902/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2210902</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2352483/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

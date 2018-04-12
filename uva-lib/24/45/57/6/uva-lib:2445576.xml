@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2445576</dcterms:identifier>
+    <dcterms:title>Brandon</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Johnston, Frances Benjamin, 1864-1952</dcterms:creator>
+    <dcterms:created>1929/1935</dcterms:created>
+    <dcterms:description>Interior, dining room. Building Date: 1765. Prince George County, Virginia.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Historic buildings</dcterms:subject>
+    <dcterms:subject>Palladian</dcterms:subject>
+    <dcterms:subject>American Colonial</dcterms:subject>
+    <dcterms:subject>Architecture</dcterms:subject>
+    <dcterms:subject>Houses</dcterms:subject>
+    <dcterms:subject>Dwellings</dcterms:subject>
+    <dcterms:subject>Vernacular architecture</dcterms:subject>
+    <dcterms:subject>Pediments</dcterms:subject>
+    <dcterms:subject>Fireplaces</dcterms:subject>
+    <dcterms:subject>Dining tables</dcterms:subject>
+    <dcterms:subject>Male portraits</dcterms:subject>
+    <dcterms:subject>Chandeliers</dcterms:subject>
+    <dcterms:subject>Paneling</dcterms:subject>
+    <dcterms:subject>Johnston, Frances Benjamin, 1864-1952</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Prince George</dcterms:spatial>
+    <dcterms:isPartOf>Frances Benjamin Johnston Photographs</dcterms:isPartOf>
+    <edm:hasType>Architectural photographs</edm:hasType>
+    <edm:hasType>gelatin silver prints</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2445576/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2445576</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2445576/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

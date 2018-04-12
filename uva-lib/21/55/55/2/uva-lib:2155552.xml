@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2155552</dcterms:identifier>
+    <dcterms:title>Faculty</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1921</dcterms:created>
+    <dcterms:description>Faculty photo. Excerpt, front row (left to right): James M. Page, University President Edwin A. Alderman, William M. Thornton.  Row 2: Milton W.Humphreys, Charles G. Maphis, Theodore Hugh, Richard H. Dabney, William M. Lyle, Raleigh C. Minor, John S. Davis, Charles A. Graves, William H. Echols, Francis P. Dunnington.  Row 3: Robert M. Bird, Halsted S. Hedges, Thomas L. Watson, Albert LeFevre, William A. Lambeth, Richard H. Wilson, Stephen H. Watts, John L. Manahan.  Row 4: Howard Winston, William H. Faulkner, Charles Hancock, Samuel A. Mitchell, John L. Newcomb, James C. Flippin, Harvey E. Jordan, George B. Eager, Ivey F. Lewis, Harry T. Marshall.  Row 5: Isaac K. Moran, Charles W. Paul, James S. Wilson, Fiske Kimball, George O. Ferguson, Jr., Graham Edgar, Albert G.A. Balz, John C. Metcalf, William A. Kepner, Walter S. Rodman, James A. Waddell.  Row 6: William D. Macon, Chapin Jones, Robert B. Bean, John J. Luck, Albert W. Giles, Tipton R. Snavely, William R. Warren, Wilfred Eldred, Herman P. Johnson, Caroll M. Sparrow, William H. Goodwin, Arthur Fickenshur.  Row 7: William D. Macon, Charles H. Huffman, Gardner L. Carter, Francis H. Abbot, Ernest L. Lehman, James S. McMcKemore, Charles P. Oliner, W. Patton Graham, William E. Bray, Thomas F. Ball.  back: Carl C. Speidel, John H. Yoe, Bruce S. Williams, William E. Knight, Harold L. Alden, Edward W. Saunders.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>albumen prints</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2155552/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2155552</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2155552/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

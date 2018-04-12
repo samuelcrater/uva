@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1004246</dcterms:identifier>
+    <dcterms:title>Virginie, grande region de l'Amerique Septentrionale, : avec tous ses bourgs, hameaux, rivieres et bayes, suivant les recherches exactes de ceux qui l'ont decouverte, et nouvellement mise au jour</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Aa, Pieter van der, 1659-1733</dcterms:creator>
+    <dcterms:created>1683</dcterms:created>
+    <dcterms:extent>1 map : hand col. ; 29 x 35 cm.</dcterms:extent>
+    <dcterms:publisher>chez I. Cóvens et C. Mortier.</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>Netherlands</dcterms:spatial>
+    <dcterms:spatial>Amsterdam</dcterms:spatial>
+    <dcterms:language>fre</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004246/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004246</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:625460/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

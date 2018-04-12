@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1124545</dcterms:identifier>
+    <dcterms:title>Cordon rouge galop : op. 36</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Wolsieffer, Edmund.</dcterms:creator>
+    <dcterms:created>1877</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>6 p. of music : col. ill.</dcterms:extent>
+    <dcterms:publisher>Julius E. Mirsalis</dcterms:publisher>
+    <dcterms:subject>Piano music</dcterms:subject>
+    <dcterms:subject>Galops</dcterms:subject>
+    <dcterms:subject>Champagne (Wine)</dcterms:subject>
+    <dcterms:subject>Popular instrumental music</dcterms:subject>
+    <dcterms:type>notated music</dcterms:type>
+    <dcterms:language>zxx</dcterms:language>
+    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1124545/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124545</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1124546/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1002939</dcterms:identifier>
+    <dcterms:title>The happy effects of that grand systom of shutting ports against the English!!</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Cruikshank, Isaac, 1756?-1811?</dcterms:creator>
+    <dcterms:created>1808</dcterms:created>
+    <dcterms:description>Cartoon, depicting Thomas Jefferson explaining the embargo to a group of merchants.</dcterms:description>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 print : hand-colored ; image 21 x 33 cm. on sheet 30 x 48 cm.</dcterms:extent>
+    <dcterms:publisher>Pubd. by Walker, 7 Cornhill</dcterms:publisher>
+    <dcterms:subject>Embargo, 1807-1809</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Jefferson, Thomas</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>art reproduction</edm:hasType>
+    <edm:hasType>Political cartoons-England-London-1808.</edm:hasType>
+    <dcterms:temporal>1801-1809</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002939/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002939</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:872258/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:63754</dcterms:identifier>
+    <dcterms:title>Dampier's Voyages</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Dampier, William, 1652-1715</dcterms:creator>
+    <dcterms:created>1906</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. front. (port.) 15 pl., 11 fold. maps. 23 cm.</dcterms:extent>
+    <dcterms:publisher>Richards</dcterms:publisher>
+    <dcterms:subject>Voyages around the world</dcterms:subject>
+    <dcterms:subject>Voyages and travels</dcterms:subject>
+    <dcterms:subject>Buccaneers</dcterms:subject>
+    <dcterms:subject>Winds</dcterms:subject>
+    <dcterms:subject>Tides</dcterms:subject>
+    <dcterms:subject>Description and travel</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63754/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63754</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1722751/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

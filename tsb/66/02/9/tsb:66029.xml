@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66029</dcterms:identifier>
+    <dcterms:title>Concilia, decreta, leges, constitvtiones, in re ecclesiarum orbis Britannici. Viz. Pambritannica, Pananglica, Scotica, Hibernica, Cambrica, Mannica, provincialia, dioecesana. Ab initio christianae ibidem religionis, ad nostram usque aetatem. Uti reperiuntur in eorundem actis, canonibus ecclesiasticis, regnorum constitutionibus, senatus consultis, principum rescriptis, libris impressis, &amp; antiquè mss. in regum etiam priscorum diplomatibus, chartis, schedis, &amp; monumentis veteribus, studiosè congesta.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Spelman, Henry, Sir, 1564?-1641</dcterms:creator>
+    <dcterms:created>1639/1664</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. 34 cm.</dcterms:extent>
+    <dcterms:publisher>Typis R. Badger, impensis Ph. Stephani &amp; C. Meredity</dcterms:publisher>
+    <dcterms:subject>Councils and synods</dcterms:subject>
+    <dcterms:subject>Ecclesiastical law</dcterms:subject>
+    <dcterms:subject>Law</dcterms:subject>
+    <dcterms:subject>Antiquities</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>lat</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66029/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66029</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2473643/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

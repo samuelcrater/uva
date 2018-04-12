@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:770646</dcterms:identifier>
+    <dcterms:title>Commissioners' sale of the Warm Springs, a celebrated watering place in Bath county, Virginia. The undersigned, commissioners duly named in a decree pronounced at the last May term of the Circuit court for said county, in a cause therein pending in which George Mayse is plaintiff, and Francisco and others are defendants, will on Monday, the 21st day of August, 1871, on the premises, in front of the Warm Springs hotel, expose to sale the property known as the "Warm Springs" ... The several tracts of land contain upward of two thousand acres ... June 1, 1871.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1871</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 broadside. 75 x 58 cm.</dcterms:extent>
+    <dcterms:publisher>Virginia gazette print&gt;</dcterms:publisher>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770646/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770646</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:956809/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

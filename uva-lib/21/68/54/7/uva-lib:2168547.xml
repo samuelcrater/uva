@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168547</dcterms:identifier>
+    <dcterms:title>School of Medicine, Second Year Class, 1930-1931</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1930/1931</dcterms:created>
+    <dcterms:description>Class of 1933 Identified (L to R): First row: Charles Jefferson Albright, Charles Varner
+Amole, Edwin Edmunds Barksdale, Nathaniel Lewis Bosworth, Jr., Hugh Roland Butt, William Bernard
+Carpenter, Charles Henry Conley, Jr., Cesare Frances DeBiase, John Essary Dees, Clayton Bernard
+Ethridge, Glassell Slaughter Fitz-Hugh, Harrison Fitzgerald Flippin, Edgar Coley Garrard, William
+Grossman, Jr. Second row: Henry Hamilton Hammer, Wallace Edgar Herrell, Joseph Martin Hitch, Jr.,
+John Bohannan Hozier, Jr., Jethro Meriwether Hurt, Frederick Matthews Jacobs, William Roy Johnson,
+Colman Carnegie Johnston, Robert Archer Goodwin Jones, Walter LeRoy Kilby, Edward Linden Kinney,
+Gershon John Levin, Eleanor Holman McCoy, Hulburt Christopher McCoy Third row: Lewis Walke McIlhany,
+Edgar Prentice McKinney, Roger Gregory Magruder, Charles Hampton Mauzy, Jr., Thomas Andrew
+Moneymaker, Harold George Nix, Isaac Nathan Patterson, Asher Richardson Payne, Frederick Ralph
+Person, Jack Berry Porterfield, Charles Walton Purcell, William Alexander Read Fourth row: Charles
+Wolfe Rieber, William Randolph Robins, Jr., John Adrian Sims, John Thompson Brown Strode, John A.
+Moorman Thompson, George Nathaniel Thrift, John Watkins Trenis, Robert Irvine Trent, Randolph Beaton
+Turnbull, Algernon Keeling Turner, Vernon Atwill Turner, Wat Henry Tyler Fifth row: Ernest Thomas
+Upson, John Ernest Vaughan, George Edward Waters, Herman Weinberg, Robert William White, Jr.,
+William Hoge Wood, Jr.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168547/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168547</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168547/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

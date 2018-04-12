@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1219816</dcterms:identifier>
+    <dcterms:title>Declaration of Independence July 4th, 1776</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1860</dcterms:created>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 print : engraving, b&amp;w ; 13 x 18 cm. on sheet 28 x 44 cm. folded to 28 x 22 cm.</dcterms:extent>
+    <dcterms:publisher>Sold by Charles Magnus</dcterms:publisher>
+    <dcterms:subject>Letterheads</dcterms:subject>
+    <dcterms:subject>Document signings</dcterms:subject>
+    <dcterms:subject>United States.</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>New York (State)</dcterms:spatial>
+    <dcterms:spatial>New York</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>graphic</edm:hasType>
+    <edm:hasType>Group portraits-1860-1870.</edm:hasType>
+    <edm:hasType>Portrait prints-1860-1870.</edm:hasType>
+    <edm:hasType>Paintings-Reproductions-1860-1870.</edm:hasType>
+    <edm:hasType>Engravings-1860-1870.</edm:hasType>
+    <dcterms:temporal>1770-1780</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219816/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219816</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1225167/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

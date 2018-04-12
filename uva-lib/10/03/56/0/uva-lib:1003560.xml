@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003560</dcterms:identifier>
+    <dcterms:title>To His Most Serene and August Majesty Peter Alexovitz Absolute Lord of Russia &amp;c. This map of Moscovy, Poland, Little Tartary, and ye Black Sea &amp;c. is most humbly dedicated</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:created>1730</dcterms:created>
+    <dcterms:extent>1 map : col. ; 62 x 99 cm. on sheet 64 x 108 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for H. Moll between Temple Bar &amp; St. Clem. Church in ye Strand, I. Bowles at the Black Horse in Cornhill, P. Overton over against S. Dunstans Church in Fleetstreet &amp; T. Bowles next to the Chapter house in St. Pauls Church yard and for I. King Print &amp; Mapseller at the Globe in the Poultry.</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003560/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003560</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904700/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

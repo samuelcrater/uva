@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2524251</dcterms:identifier>
+    <dcterms:title>Homeopathic medicine set</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Dr. Arthur Lutze</dcterms:creator>
+    <dcterms:created>1875</dcterms:created>
+    <dcterms:description>Wooden case labeled "144 Homoopathische Potenzen vom Sanitatsrath Dr. Arthur Lutze in Coethen." 144 vials include: Aconit, Agaricus muse, Agnus cast, Alumina, Aluminium met, Ambra, Ammonium carb, Anacardium, Angustura, Apis, Antimon crud, Argentum fol, Argent nitric, Arnica, Arsenicum, Asa foetida, Asarum europ, Aurum fol, Baryta carb, Belladonna, Benzoes acid, Borax, Brom, Bovista, Bryonia, Cahinca, Calcar carb, Calcar caust, Calcar phosph, Calendula, camphora, Cannabis sat, Cancer fluviat, Cantharides, Capsicum, Carbo animalis, Carbo vegetab, Causticum, Cepa, Chamaedris, Chamomilla, China, Chlor, Cicuta, Cina, Cistus canad, Clematis erecta, Cocculus, Coccus cacti, Coffea, Colchicum, Colocynthis, Conium, Crocus, Crotalus, Cuprum, Daphne indica, Digitalis, Drosera, Dulcamara, Euphorbium, Euphrasia, Ferrum, Glonoin, Graphit, Hellebor niger, Hepar sulph, Hydrocyani ac, Hyoscyamus, Hypericum, Iatropha cure, Ignatia, Jod, Ipecacuanha, Kali bichrom, Kali carb, Kreosot, Lachsesis, Laurocerasus, Ledum palustre, Lycopodium, Magnesia carb, Magnesia mur, Mancinella, Manganum, Menyanthes, Mephitis putor, Mercur, Mezereum, Millefollium, Moschus, Muriatis acid, Natrum carbon, Natrum muriat, Nitri acidum, Nitrum, Nux moschata, Nux vomica, Oleander, Opium, Petroleum, Phosphori ac, Phosphorus, Platina, Plumbum, Psoricum, Pulsatilla, Pyrocarbon, Ranunc bulb, Ranunc sceler, Rheum, Rhododendron, Rhus toxicod, Ruta, Sabadilla, Sabina, Sambucus nig, Singuinaria, Secale cornut, Selenium, Senega, Sepia, Silicea, Spigelia, Spirit sulph 1, Spongia, Squilla, Stannum, Staphysagria, Stramonium, Sulphur, Sulphuris acid, Symphytum, Tartarus emet, Terebinthina, Teucrium mar, Thuja, Urtica urens, valeriana, Variolin, Veratrum alb, Vinca minor, Viola tric, Zincum metall.</dcterms:description>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:medium>wood and wood products</dcterms:medium>
+    <dcterms:medium>paper (fiber product)</dcterms:medium>
+    <dcterms:medium>corks (stoppers)</dcterms:medium>
+    <dcterms:extent>6 x 13 x 22.2 cm</dcterms:extent>
+    <dcterms:subject>Pharmacy--supplies</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <edm:hasType>vials</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524251/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524251</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524251/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

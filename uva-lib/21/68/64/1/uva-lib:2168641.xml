@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168641</dcterms:identifier>
+    <dcterms:title>School of Medicine, Third Year Class, 1948-1949</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1948/1949</dcterms:created>
+    <dcterms:description>First row (l to r): Charles Old Barclay, Jr., William Russell Brooks, George Allen Buckmaster,
+Robert Sims Caldwell, James Campbell Cantrill, Floyd Wilson Carneal, Jr., John Baldwin Catlett,
+James Colvin Causey, John Archibald Campbell Colston, Jr., Paul Tulane Craddock, Fred Seldon Cruser.
+Second row (l to r): James Andrew DeLozier, Harrison Fertig, Robert Jerold Frank, Claude Robertson
+Garfield, William Buhrman Garland, Jr., Lawrence Noah Gilliam, Warren Collins Gregory, Thomas Marion
+Hall, Rozelle Hahn, Reginald Buchanan Henry, Jr., George William Herring. Third row (l to r): Seth
+Guilford Hobart, Guy Foster Hollifield, James Morrison Hutcheson, Jr., Patricia Ann Lawrence,
+Theodore Lather Marks, Paul Randall Marsh, Marion Dees Miller, Samuel Edmund Miller, Robert Edgar
+Mitchell, Jr. Fourth row (l to r): Beryl Macy Oser, Gladys Pietri-Oms Sutherland, Rupert Wilson
+Quaintance, Jr., Richard Eugene Rankin, Josiah Frederick Reed, Jr., James Cipriano Respess, Dorothy
+Louella Reycroft, Benjamin Price Riley, Jr., John Kenneth Robertson, William Henry Romm. Fifth row
+(l to r): Robert Louis Rowan, Roy Preston Sandidge, Jr., Edward Akira Sawada, Joseph Leon Schwartz,
+Jr., Jose Anibal Semidey, Elmer Oswald Smith, Jr., Russell Smith, David Valentine Strider, Frank
+Eugene Taylor, Bruce Edward Toppin, Clarence Brock Trower, Jr. Sixth row (l to r): Glenn Brady
+Updike, Jr., Charles William Wagner, James Mounts Wolcott, Jr., James Burnley Wood, William Geoffrey
+Wysor, Jr.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168641/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168641</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168641/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

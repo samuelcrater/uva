@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:63857</dcterms:identifier>
+    <dcterms:title>The influence of sea power upon the French revolution and empire, 1793-1812</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Mahan, A. T. (Alfred Thayer), 1840-1914</dcterms:creator>
+    <dcterms:created>1898</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. maps (1 fold.) plans. 23 cm.</dcterms:extent>
+    <dcterms:publisher>Little, Brown, and company</dcterms:publisher>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Sea-power</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History, Naval</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>France./</dcterms:subject>
+    <dcterms:subject>Marine</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:temporal>1789-1900</dcterms:temporal>
+    <dcterms:temporal>Consulate and First Empire, 1799-1815</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63857/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63857</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1761942/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

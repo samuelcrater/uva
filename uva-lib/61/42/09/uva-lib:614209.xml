@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:614209</dcterms:identifier>
+    <dcterms:title>Bref et sommaire recueil de ce qui a esté faict, &amp; de l'ordre tenüe à la ioyeuse &amp; triumphante entree de tres-puissant, tres-magnanime &amp; tres-chrestien Prince Charles IX. de ce nom Roy de France, en sa bonne ville &amp; cité de Paris, capitale de son Royaume, le Mardy sixiesme iour de Mars. : Auec le couronnement de tres-haute, tres-illustre &amp; tres-excellente Princesse Madame Elizabet d'Austriche son espouse, le Dimanche vingtcinquiesme. ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bouquet, Simon, active 16th century</dcterms:creator>
+    <dcterms:created>1572</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>53, [1], 10, 26, [1] leaves, [2] folded leaves of plates : ill. ; 26 cm. (4to)</dcterms:extent>
+    <dcterms:publisher>De l'imprimerie de Denis du Pré, pour Oliuier Codoré, rüe Guillaume Iosse, au Heraut d'armes, pres la rüe des Lombars</dcterms:publisher>
+    <dcterms:subject>Coronations</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Charles/</dcterms:subject>
+    <dcterms:subject>Elisabeth</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:temporal>Charles IX, 1560-1574</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:614209/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:614209</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:614221/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

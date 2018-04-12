@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2445745</dcterms:identifier>
+    <dcterms:title>Monumental Church</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Johnston, Frances Benjamin, 1864-1952</dcterms:creator>
+    <dcterms:created>1929/1935</dcterms:created>
+    <dcterms:description>Exterior, portico of monumental church. Monumental Church
+      was built from 1812-1814 by Robert Mills. It stands at 1224 East Broad Street, Richmond, VA.
+      Virginia Landmarks Register (1999). Richmond, Virginia.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Historic buildings</dcterms:subject>
+    <dcterms:subject>Architecture</dcterms:subject>
+    <dcterms:subject>Churches</dcterms:subject>
+    <dcterms:subject>Monuments</dcterms:subject>
+    <dcterms:subject>Columns (architectural elements)</dcterms:subject>
+    <dcterms:subject>Medallions (ornament areas)</dcterms:subject>
+    <dcterms:subject>Porticoes</dcterms:subject>
+    <dcterms:subject>Johnston, Frances Benjamin, 1864-1952</dcterms:subject>
+    <dcterms:subject>Mills, Robert, 1781-1855</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Richmond</dcterms:spatial>
+    <dcterms:isPartOf>Frances Benjamin Johnston Photographs</dcterms:isPartOf>
+    <edm:hasType>Architectural photographs</edm:hasType>
+    <edm:hasType>gelatin silver prints</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2445745/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2445745</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2445745/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

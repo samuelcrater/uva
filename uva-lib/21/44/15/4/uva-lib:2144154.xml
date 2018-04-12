@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2144154</dcterms:identifier>
+    <dcterms:title>At the Town-House in Boston: April 18th. 1689 : Sir, Our selves as well as many others the inhabitants of this town and places adjacent ... judge it necessary that you forthwith surrender, and deliver up the government ... promising all security from violence to your self ... To Sr. Edmond Andross Knight. / William Stoughton. Thomas Danforth. Simon Bradstreet [and 12 others]</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1689</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 sheet ([1] p.) ; 32 x 20 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by Samuel Green</dcterms:publisher>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Andros, Edmund</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Massachusetts</dcterms:spatial>
+    <dcterms:spatial>Boston</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Broadsides-Massachusetts-17th century.</edm:hasType>
+    <dcterms:temporal>To 1775</dcterms:temporal>
+    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:temporal>To 1775</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144154/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144154</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2174971/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

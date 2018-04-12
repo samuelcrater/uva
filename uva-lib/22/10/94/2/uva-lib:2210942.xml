@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2210942</dcterms:identifier>
+    <dcterms:title>Kentuck harmony. Or, A choice collection of Psalm tunes, hymns and anthems; : in three parts. : Taken from the most eminent authors, and well adapted to Christian churches, singing schools or private societies.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1826</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>158, [2] p.) : (music) ; 13 x 22 cm.</dcterms:extent>
+    <dcterms:publisher>Printed and sold by the Author, Harrisonburg Virginia. And sold by L. Trember Staunton, Jacob Bear Lexington, E.W. Robinson, Fincastle, A. North Lynchburg, J. Atkins, Charlottesville, Albert Waterman Middleburg, all in Virginia. In Tennessee, by J. Lynn Boatyard, Croster &amp; Barton Knoxville, Robertson &amp; Elliot Nashville. Ohio, Samuel Ethinger</dcterms:publisher>
+    <dcterms:subject>Hymns, English</dcterms:subject>
+    <dcterms:subject>Anthems</dcterms:subject>
+    <dcterms:subject>Shape-note hymnals</dcterms:subject>
+    <dcterms:type>notated music</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Harrisonburg</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>an-hy</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2210942/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2210942</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2232441/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

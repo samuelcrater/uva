@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65402</dcterms:identifier>
+    <dcterms:title>History of the philosophy of mind: embracing the opinions of all writers on mental science from the earliest period to the present time</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Blakey, Robert, 1795-1878</dcterms:creator>
+    <dcterms:created>1850</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>4 volumes ; 23 cm</dcterms:extent>
+    <dcterms:publisher>Longman, Brown, Green and Longmans</dcterms:publisher>
+    <dcterms:subject>Philosophy of mind</dcterms:subject>
+    <dcterms:subject>Philosophy of mind</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>History.</edm:hasType>
+    <edm:hasType>Annotations (Provenance)</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65402/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65402</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2232529/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

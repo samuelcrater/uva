@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:18877</dcterms:identifier>
+    <dcterms:title>The Richmond Female Institute. : Rev. B. Manly, Jr., President. : Tenth and Marshall Sts., Richmond, Va. ... : The design of The Richmond Female Institute, incorporated March 2, 1853, by the Legislature of Virginia, is to offer to young ladies the facilities for instruction which may be found in our best colleges for young men ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1854</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[4] unnumbered pages (pages [2]-[4] blank) : illustration ; 27 x 22 cm</dcterms:extent>
+    <dcterms:subject>Curricula</dcterms:subject>
+    <dcterms:subject>Women's colleges</dcterms:subject>
+    <dcterms:subject>Private schools</dcterms:subject>
+    <dcterms:subject>Richmond Female Institute (Richmond, Va.)/</dcterms:subject>
+    <dcterms:subject>Richmond Female Institute (Richmond, Va.)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Richmond</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18877/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18877</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1519277/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

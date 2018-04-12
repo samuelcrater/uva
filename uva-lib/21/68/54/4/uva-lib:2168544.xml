@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168544</dcterms:identifier>
+    <dcterms:title>Fourth Year Class, 1930-1931</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1930/1931</dcterms:created>
+    <dcterms:description>SOM, Class of 1931 Identified (from left to right): First row: John Jacquelin Ambler, Howard
+Hicks Ashbury, Harloe Bailey, Philip Bress, William Ambrose Brown, Jr., Charles Crawford Canada,
+George Daniel Capaccio, William Morgan Chew, John Bradley Cousar, Adam Tyree Finch, Jr., Carlyle
+Gregory Flake Second row: Samuel Howard Garst, [?], Samuel Butler Grimes, Peter Allen Haley, II,
+Winthrop Huntington Hall, Weldon Merritt Harloe, Ruth Schwartz Hart, Clifton K Himmelsbach, Angus
+Hinson, Joseph William Houck Third row: Harry Gilman Hudnall, John Thomas James, Harry Raphel Kelly,
+Charles Fuller Kincheloe, Jr., [?], Thomas Preston McKee, Arthur Mazyck, Jr., Lodwick Sterrett
+Meriwether, William Maryon Moir Fourth row: Timothy John Nash, William Henry Parker, Asa Elmore
+Seeds, Eldridge Cook Simmons, Melville Dwight Smith, Jack Spencer, Ben Steingold, Albert
+Chesterfield Stutsman Fifth row: Walter Lee Thomas, Jr., Dawson Edward Watkins, Jr., Bliss King
+Weems, William Massie Whitehead</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168544/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168544</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168544/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:798287</dcterms:identifier>
+    <dcterms:title>Conclusion de la messe. : lte. Missa est.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1563</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>16 p. ; 17 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>s.n.]</dcterms:publisher>
+    <dcterms:subject>Mass</dcterms:subject>
+    <dcterms:subject>Church history</dcterms:subject>
+    <dcterms:subject>Catholic Church</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:798287/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:798287</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1012151/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

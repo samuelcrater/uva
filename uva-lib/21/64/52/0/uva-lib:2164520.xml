@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2164520</dcterms:identifier>
+    <dcterms:title>Visiting speaker Bernadette Devlin McAliskey</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Williams, Leslie</dcterms:creator>
+    <dcterms:created>1994-10</dcterms:created>
+    <dcterms:description>From excerpt: "Don't call the five weeks of peace initiated by the IRA in Northern Ireland a cease-fire," said human rights leader Bernadette Devlin McAliskey. "It is simply a unilateral ending to the war. The opposition is still firing," she  said in a talk on October 6, 1994 at the Rotunda. "I would like to see the position of the Irish Republican Army reciprocated," she said. "I am not optimistic, but realistic about the latest developments in Northern Ireland [?] because I challenge the question of leadership. It is an  exclusively male approach to society, which was part of the problem in  the first place," McAliskey said. "The current process is not the way to peace, because the absence of war is not the same thing as peace," she  said. McAliskey's willingness to put her life on the line in a hunger strike protest on behalf of Irish political prisoners won her a  worldwide audience in 1979. In 1980, she and her husband were seriously  wounded in an assassination attempt at their home by a Protestant paramilitary squad.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Press coverage</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white negatives</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164520/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164520</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2164520/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

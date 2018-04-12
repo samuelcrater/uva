@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003496</dcterms:identifier>
+    <dcterms:title>A survey of the Northern Neck of Virginia, : being the lands belonging to the Rt. Honourable Thomas Lord Fairfax Baron Cameron, bounded by &amp; within the Bay of Chesapoyocke and between the Rivers Rappahannock and Potowmack : with the courses of the Rivers Rappahannock and Potowmack, in Virginia, as surveyed according to order in the years 1736 &amp; 1737.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Warner, John, fl. 1727-1741</dcterms:creator>
+    <dcterms:created>18521747</dcterms:created>
+    <dcterms:extent>1 map : b&amp;w ; 22 x26 cm.</dcterms:extent>
+    <dcterms:publisher>Litho. Photographic Inst. 492, New Oxford Street</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003496/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003496</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:897910/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

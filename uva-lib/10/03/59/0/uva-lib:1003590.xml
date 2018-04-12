@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003590</dcterms:identifier>
+    <dcterms:title>A geological map of the copper region embraced in the counties of Floyd, Carroll &amp; Grayson, Va. and Ashe &amp; Alleghany, N.C.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Currey, Richard O. (Richard Owen)</dcterms:creator>
+    <dcterms:created>1859</dcterms:created>
+    <dcterms:extent>1 map : col. ; 22 x 39 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by Beckett, Haws &amp; Co.</dcterms:publisher>
+    <dcterms:subject>Copper mines and mining</dcterms:subject>
+    <dcterms:subject>Copper mines and mining</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003590/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003590</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904857/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

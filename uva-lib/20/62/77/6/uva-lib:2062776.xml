@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2062776</dcterms:identifier>
+    <dcterms:title>Rand McNally black and white mileage map, Florida</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1921</dcterms:created>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:extent>1 map : black line ; 31 x 47 cm, on sheet 35 x 53 cm, folded to 12 x 9 cm, in cover 17 x 11 cm. + 1 guide (17, [3] p. ; 17 cm.).</dcterms:extent>
+    <dcterms:publisher>Rand McNally &amp; Company</dcterms:publisher>
+    <dcterms:subject>Hotels</dcterms:subject>
+    <dcterms:subject>Railroads</dcterms:subject>
+    <dcterms:subject>Distances</dcterms:subject>
+    <dcterms:subject>Industries</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2062776/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2062776</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2067621/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

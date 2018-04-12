@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:730699</dcterms:identifier>
+    <dcterms:title>La manière de bien traduire dune langue en aultre. : D'auantaige. De la punctuation de la langue. Francoyse. Plus. Des accent d'ycelle.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Dolet, Etienne, 1509-1546</dcterms:creator>
+    <dcterms:created>1542/1563</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[39] p. ; 14 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>par Jehan Loe</dcterms:publisher>
+    <dcterms:subject>Translating and interpreting</dcterms:subject>
+    <dcterms:subject>French language</dcterms:subject>
+    <dcterms:subject>French language</dcterms:subject>
+    <dcterms:subject>French language</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:temporal>Middle French, 1300-1600</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730699/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730699</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:738432/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

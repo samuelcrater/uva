@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1099874</dcterms:identifier>
+    <dcterms:title>Le grand triumphe magnificque &amp; resiouissance des Parisiens, de la venue du treschrestien Roy Henry second de ce nom en sa ville de Paris</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bez, Ferrand de, d. 1581</dcterms:creator>
+    <dcterms:created>1549</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[16] p., [1] leaf of plates : port. ; 14 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>Imprimé a Paris ... par Nicolas Buffet pres le College de Reimes</dcterms:publisher>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Henry</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:temporal>Henry II, 1547-1559</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1099874/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1099874</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1116603/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

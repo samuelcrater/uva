@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168672</dcterms:identifier>
+    <dcterms:title>School of Medicine, Fourth Year Class, 1957</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+    <dcterms:created>1957</dcterms:created>
+    <dcterms:description>First row (l to r): Noel Martin Rowan, Charles Baynham Mahon, James Trigg Gillespie, John
+Iverson Boswell, William Swadley Erwin, Jr., Henry Wayne Poore, Julian Arthur Koplen, Robert Lee
+Glenn, Marvin Miles Sager, Faith Hilda Kung, Francis Edwards Rushton, James Robert Hicks II, John
+Roger Casey, William Thomas Carter, Edgar Clifford Lawson, Charles Richard Chamberlain, Jr. Second
+row (l to r): John Loomis Chamberlain III, Warren Woodson Koontz, Jr., Alexander Farish Robertson
+III, Mark Henderson Congdon, Edward Joseph Armbruster, Robert Walter Olwine, Julius Conn, Jr., Peter
+Van Cortlandt Moore, Edward Thomas Wood, David L. Lewis, Loyd Clarence Brannon, George Bluford Naff,
+John Orton Shaw, Tureman Gayle Weaver. Third row (l to r): William Carter Lowe, George Allan Ferre,
+Martin Perlman William Lloyd Meehan, Howard Nan Stewart, Robert Barksdale Ooghe, Allan Lee Drash,
+Wilford Wayne Spradlin, Frederick Carr Davis, Jr., Leif Oscar Torkelson, Phillip Morton Levy, Macon
+Smiley Couk, William Sidney Foreman, Jr., James Hawver McVey, John Jefferson Lund. Fourth row (l to
+r): Howard Mortye Vinecour, Charles Henry Gleason, Jess Peck Piller, Donald Raymond Cagle, Robert
+Francis Baxter, Charles Penick Olinger, Edward Bertram Nash, Cyrus Patrick Lewis, Gwendolyn Rosalie
+Hogan, John Wesley Emerick, Jr., Theron Rice Rolston, Jr., Haakon Ragde, Edmund Roland Weise, Joseph
+Hodges Fitzgerald, William Mayo Oppenheimer, William Turkington Clarke. Fifth row (l to r): Bruce
+Alexander Talmadge, Stuart Horsley Harris, Jr., John Robert Talbert, George Walker Sommers, Jr.,
+James Edwin Patterson, Hugh Richard Howell, Luke Combs, Joseph Emory Coleman, Hobart Garfield
+Hansen, Jr., Lockhart Bemiss McGuire, Edward Joseph Sheridan, Jr., Charles Reames Young, James
+Parker Cross, Jr., George Ely Walker.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168672/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168672</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168672/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2170110</dcterms:identifier>
+    <dcterms:title>Kingston, April 15, 1809. : Dear Sir, The Federal Committee of the County of Ulster cannot refrain, on the eve of an important election, again to address you on the necessity of union, energy and exertion, at the ensuing contest. ... : To the polls then-- At the day of election hasten to the polls-- and support, and vote for the American Ticket.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1809</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 sheet ([1] p.) ; 33 x 20 cm.</dcterms:extent>
+    <dcterms:publisher>Federal Committee of the County of Ulster</dcterms:publisher>
+    <dcterms:subject>Library</dcterms:subject>
+    <dcterms:subject>Campaign literature</dcterms:subject>
+    <dcterms:subject>Embargo, 1807-1809</dcterms:subject>
+    <dcterms:subject>Foreign relations</dcterms:subject>
+    <dcterms:subject>Foreign relations</dcterms:subject>
+    <dcterms:subject>Commercial policy</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Foote, Ebenezer/</dcterms:subject>
+    <dcterms:subject>Republican Party (U.S. : 1792-1828)/</dcterms:subject>
+    <dcterms:subject>Federal Party (U.S.)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>New York</dcterms:spatial>
+    <dcterms:spatial>Kingston</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Broadsides-New York (State)-Kingston-1809.</edm:hasType>
+    <dcterms:temporal>1801-1809</dcterms:temporal>
+    <dcterms:temporal>1775-1865</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2170110/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170110</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2179918/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

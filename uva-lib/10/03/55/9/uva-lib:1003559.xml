@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003559</dcterms:identifier>
+    <dcterms:title>A new and exact map of France : divided into all its provinces and acquisitions, according to the newest observations, and that accurate survey made by the King's command by Mr. Picar and de la Hire, with the post roads and the computed leagues from town to town, the passes of the Pirenean Mountains, and many other remarcks &amp;c.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:created>1730</dcterms:created>
+    <dcterms:extent>1 map : col. ; 61 x 98 cm. on sheet 64 x 107 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for H. Moll over against Devereux Court between Temple Bar and St. Clements Church in ye Strand, I. Bowles Print and Map Seller at ye Black Horse in Cornhill, P. Overton Map &amp; Printseller near St. Dunstans Church Fleetstreet, and T. Bowles Print &amp; Mapseller next to the Chapter house in St. Pauls Church yard, and John King at the Globe in the Poultry.</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003559/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003559</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:904699/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

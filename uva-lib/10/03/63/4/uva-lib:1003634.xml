@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1003634</dcterms:identifier>
+    <dcterms:title>Les provinces des Pays-Bas Catholiques ou A most exact map of Flanders or ye Austrian Netherlands &amp;c. : It comprehends all the towns, villages, abbeys, monasteries throughout all these provinces &amp;c.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:created>1730</dcterms:created>
+    <dcterms:extent>1 map : col. ; 61 x 100 cm. on sheet 64 x 106 cm.</dcterms:extent>
+    <dcterms:publisher>Sold by H. Moll over against Devereux Court between Temple Bar and St. Clements Church in ye Strand. I. Bowles Print and Map seller at the Black Horse in Cornhill &amp; T. Bowles Print and mapseller next to ye Chapter house in S. Pauls Ch. yard. And John King at the Globe in the Poultry.</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003634/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003634</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:906138/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

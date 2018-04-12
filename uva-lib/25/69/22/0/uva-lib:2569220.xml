@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2569220</dcterms:identifier>
+    <dcterms:title>Red goggles</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>James Picker Company</dcterms:creator>
+    <dcterms:created>1940/1949</dcterms:created>
+    <dcterms:description>The goggles have 2 small view holes in the lenses and 6 black disk-shaped air vents around the sides; the plastic is deteriorating and slightly sticky.
+      The googles are marked Picker, Buzzards Bay, Mass. The James Picker Company was formed in 1915 and went through several name changes. Picker International, Inc. became Marconi medical Systems in 1999, 
+      a division of Philips Medical Systems. Red goggles were used for dark adaption of the eyes prior to performing non-image-intensified fluoroscopy as recently 
+      as the mid to late 1960s at UVa and into the mid 1970s at other institutions. This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., 
+      Chair of the UVa Department of Radiology from 1963-1991.</dcterms:description>
+    <dcterms:medium>plastic (organic material)</dcterms:medium>
+    <dcterms:medium>cloth</dcterms:medium>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:extent>13 x 24 x 13.6 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569220/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569220</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2569220/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

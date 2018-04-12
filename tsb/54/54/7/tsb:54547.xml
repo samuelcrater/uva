@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:54547</dcterms:identifier>
+    <dcterms:title>El grande nuevo aumentado Atlas de la mar, o mundo de agua, : mostrando nos todas las costas del redondes de la tiera, consistiendo en mui corectas mapas, tanto en grados chatos como crecientes, delos quales se an en mendado, y mejorado algunos que mostravan mal, lo qual sepuedo ver tambien en el titulo de las mapas, mui favorable para los maestres de Navios, Pilatos, y Amadores de la grande navegacion.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Loon, J. van, approximately 1611-1686</dcterms:creator>
+    <dcterms:created>1680</dcterms:created>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:extent>1 atlas : 35 double-page maps ; 55 cm (fol.)</dcterms:extent>
+    <dcterms:publisher>Por Johannes van Keulen, librero, y fabricador de valestillas astronomicas, enfrente del puente nuevo en el Piloto Coronado</dcterms:publisher>
+    <dcterms:subject>Atlases</dcterms:subject>
+    <dcterms:subject>Early maps</dcterms:subject>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:subject>Nautical charts</dcterms:subject>
+    <dcterms:subject>Coasts</dcterms:subject>
+    <dcterms:subject>Atlases</dcterms:subject>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:spatial>Netherlands</dcterms:spatial>
+    <dcterms:spatial>Amsterdam</dcterms:spatial>
+    <dcterms:language>spa</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <edm:hasType>Early works.</edm:hasType>
+    <edm:hasType>Maps</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:54547/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:54547</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1551583/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2161037</dcterms:identifier>
+    <dcterms:title>University of Virginia Commerce school - Faculty</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
+    <dcterms:description>From excerpt on back: Believing that Southern business and industrial expansion require highly trained business leadership, economics and business administration faculty members of the University of Virginia outline details of the South's first wholly graduate school of commerce and business administration being established at the University.  These specialists will form the nucleus of the School's faculty: left to right,  George T. Starnes, labor relations expert; David McCord Wright, business cycles specialist; Rutledge Vining, professor of statistics; Maximilian A.J. Barlow, professor of accounting; Tipton R. Snavely, head of the School of Economics; E.A. Kincaid, vice president of the Federal Reserve Bank of Richmond; D.C. Hyde, specialist in economic history; Thomas A. Douglas, industrial organization expert; Frank S. Kaulback, accounting specialist; and Loren A. Thompson, Jr., head of the University's Bureau of Population and Economic Research.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2161037/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2161037</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2161037/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

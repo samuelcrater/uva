@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:730714</dcterms:identifier>
+    <dcterms:title>Elegie de P. de Ronsard Vandomois, sur les troubles d'Amboise, mil cinq cens soixante</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+    <dcterms:created>1563</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[13] p. ; 17 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>[s.n.]</dcterms:publisher>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Lyon</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:temporal>Francis II, 1559-1560</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730714/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730714</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:735880/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

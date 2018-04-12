@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65921</dcterms:identifier>
+    <dcterms:title>Johannis Kahl, aliàs Calvini ... Magnum lexicon juridicum juris nimirum caesarei simul, &amp; canonici, feudalis item, civilis, criminalis, theoretici ac practici : &amp; in schola, &amp; in foro usitatarum ac tum ex ipso juris utriusque corpore, tum ex doctoribus &amp; glossis, tam veteribus, qua`m recentioribus collectarum vocum penus : simul &amp; locorum communium, &amp; dictionarii vicem sustinens : feudale lexicon, leges ac magistratus romanos, &amp; caetera huic operi adjecta vide in complemento, post finem operis ipsius. Collectum ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Calvinus, Johannes, -1614</dcterms:creator>
+    <dcterms:created>1759</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. ; 38 cm.</dcterms:extent>
+    <dcterms:publisher>Sumptibus Fratrum Cramer</dcterms:publisher>
+    <dcterms:subject>Law, Medieval</dcterms:subject>
+    <dcterms:subject>Roman law</dcterms:subject>
+    <dcterms:subject>Canon law</dcterms:subject>
+    <dcterms:subject>Feudal law</dcterms:subject>
+    <dcterms:subject>Ecclesiastical law</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>lat</dcterms:language>
+    <edm:hasType>dictionary</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65921/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65921</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2410964/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

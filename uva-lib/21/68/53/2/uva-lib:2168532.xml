@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2168532</dcterms:identifier>
+    <dcterms:title>Second Year Class, 1925-1926</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1925/1926</dcterms:created>
+    <dcterms:description>SOM, Class of 1928 Students unidentified. Student roster in alphabetical order, not as appears
+in photo: James R. Adams, Walter J. Allegree, Joe W. Baker, Rufus Brittain, Clavin T. Burton, Arthur
+P. Butt Jr., John A. Calhoun Jr., Paul D. Camp Jr., Alexander N. Chaffin, Elizabeth C. Cole, John H.
+Coulter Jr., Alva D. Daughton, Albert M. Eaddy, Louis H. Edmunds, Daniel Fallis, Carson L. Fifer,
+Truman E. Gilbert, Joseph B. Graham, Loren P. Guy, Edward B. Holmes, Hubert B. Holsinger, William R.
+Jordan, Eric F. Joslin, Charles A. Kelly, Virgin L. Kelly Jr., Robert L. King, Walter J. Lackey,
+William L. Lacy, Max Landman, Ford K. Lucas, Paul R. MacFadyen Jr., Paul McFarlane, John B. McKee,
+Vincent G. Maggiore, Vincent J. Meads, Rufus F. Morgan, Oscar N. Morison, Cecil E. Newell, Chester
+R. Nuckolls, Irving Perlman, David S. Phlegar Jr., Frank C. Pinkerton, Valentine L. Puig Jr., Milton
+E. Robbins, Herman D. G. Rose, Harry J. Secky, Morris H. Spindel, Charles B. Stringfellow, Morris G.
+Strulowitz, Frank E. Tappan, Rudolph C. Thomason, Frank F. Thweatt Jr., Emory E. Walter, Charles E.
+Watson, James W. Watts II, Albert M. Wheeler, William A. Wiley, Jacob Wilkins, John F. Woodward Jr.,
+Patrick T. Wu, Max Yacht</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168532/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168532</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168532/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

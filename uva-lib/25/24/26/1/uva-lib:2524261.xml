@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2524261</dcterms:identifier>
+    <dcterms:title>Electrotherapy apparatus</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Aluminum Battery Co.</dcterms:creator>
+    <dcterms:created>1893</dcterms:created>
+    <dcterms:description>Apparatus is contained within a wooden box with a metal handle and clasp. It contains a large cylindrical battery, 2 sponges on wooden handles, a metal plate, 
+      and papers related to the battery including an envelope printed with the National Commercial Co.'s (Medical Battery Makers) address in Cincinnati, Ohio. 
+      A paper on the inside of the lid gives directions for the use of the battery, and the lid-paper indicates that it is a Double Chamber High-Tension Battery 
+      made by the Aluminum Battery Co. of Cincinnati, Ohio. The battery was sold to Dr. W. M. Herr of Lancaster, Pa. whose name is stamped on the lid-paper. 
+      The item belonged to Mary Gibson's father, Joseph L. Eckenrode.</dcterms:description>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>cloth</dcterms:medium>
+    <dcterms:medium>sponge (material)</dcterms:medium>
+    <dcterms:extent>22.3 x 19.8 x 21 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524261/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524261</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2524261/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2138018</dcterms:identifier>
+    <dcterms:title>The Psalms, hymns, and spiritual songs, of the Old &amp; New Testament: : faithfully translated into English meetre. For the use, edification and comfort of the saints in publick and private, especially in New-England. [Eight lines of Scripture references and texts]</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1698</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>420, [12], 10 p. : music ; 13 cm (12mo)</dcterms:extent>
+    <dcterms:publisher>Printed by B. Green, and J. Allen, for Michael Perry, under the west-end of the Town House</dcterms:publisher>
+    <dcterms:subject>Psalms (Music)</dcterms:subject>
+    <dcterms:subject>Psalmody</dcterms:subject>
+    <dcterms:subject>Hymns, English</dcterms:subject>
+    <dcterms:subject>Hymn tunes</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Massachusetts</dcterms:spatial>
+    <dcterms:spatial>Boston</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Psalters-1698.</edm:hasType>
+    <edm:hasType>Bookplates (Provenance)-United States-20th century.</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2138018/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2138018</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2146918/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

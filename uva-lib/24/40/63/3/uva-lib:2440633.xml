@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440633</dcterms:identifier>
+    <dcterms:title>U.S. Army uniform shirt and tie from World War II</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1943/1945</dcterms:created>
+    <dcterms:description>This uniform was worn by Ruth Beery, head nurse of the 8th Evacuation Hospital unit of the U.S. Army, during World War II. Khaki colored shirt with maroon tie; shirt: plastic buttons, (2) flap breast pockets, Saks Fifth Avenue, U508 11 36 stamped on inside, Ruth Beery sewn; tie: Shillito's Men's store, Cincinnati, 11-21 tacked on inside, Ruth Beery sewn.</dcterms:description>
+    <dcterms:medium>cloth</dcterms:medium>
+    <dcterms:subject>Uniforms</dcterms:subject>
+    <dcterms:subject>World War, 1939-1945</dcterms:subject>
+    <dcterms:subject>United States. Army. Evacuation Hospital, 8th</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>uniforms</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440633/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440633</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440633/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

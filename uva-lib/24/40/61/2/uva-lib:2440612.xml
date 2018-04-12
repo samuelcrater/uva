@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2440612</dcterms:identifier>
+    <dcterms:title>Saddlebag</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1886/1910</dcterms:created>
+    <dcterms:description>This item was owned by Dr. James E. Copeland (1845-1937) of Round Hill, Virginia. It was donated to the University of Virginia by Copeland's grandson, Edward V. Copeland, in 1971. 3823 Marshall PATD Apr. 20 [TH] 1886, 36 W.S.M. Centrallia ILL; The saddlebags contain the following: 11 powder packets: (1) chloride, (2) ferric, (8) no information; 13 pillboxes: (3) empty and folded, Cr. JE Copeland, Round Hill, VA; C.C.P.; Cascarin Compound, prepared by University Pharmaceutical Company; Dr. J.E. Copeland, Round Hill, Va; Dr. J.E Copeland, Round Hill Va--The National Drug Co. Press, Philadelphia; (2) Drs. Copeland &amp; Copeland Round Hill Va; Drs. Copeland &amp; Copeland., Roundhill, VA.; Drs. Copeland &amp; Copeland. Round Hill Virginia, A 32437 Opium and Lead Acetate, No. 2; Calomel gr 1 Ipecac gr 1/10 sodium gr); 37 medicine bottles with stoppers: Acetauclid; Acetanilid Company No. 4 Dr. Aulde Acetanilid 3 1/2 grs; salycilic acid; salycilate sodium; Ipecac; calomel and sodium [] omel, 1-2 gr. []ium Bicarb. 1-2 gr.; Norwood's for veratim viriole [] 1-3; calomel; nitroglycerine; strychnine nitrate [] 1-30 grain; Morphine Sulphate; morphine 1/4 gr. 1-4 []; [] Opii); Hydr. Cum. Creta; Bismuth Subgallate; Salol; Rx Mercurous Chlor [] [] Bicarb [] Dr. J.E Copeland, Round Hill, VA; Poison, contains Mercury bichloride, Eli Lilly &amp; Company Indianapolis, 2 []230343; Spt's Nitre; brom. pot; F.E. []8[] Dr.J[] Copeland, Round Hill, VA; Fl.Ext. Ergot; (2) chloroform; Chlor. Hydrat; (7), no information; chlor. hydrat; Rx2, Mercurous chloride, mild, 2 1/2 grs, Sodium bicarbonate, 2 1/2 grs, F.E Aconite; Oxalate Cerium; 8 powder packets: mincing poison, Ferric Nitras, (4) no information, salol, nux vomica.</dcterms:description>
+    <dcterms:medium>leather (material)</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:subject>Bags</dcterms:subject>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:subject>Drugs</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>saddlebags (containers)</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440612/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440612</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2440612/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

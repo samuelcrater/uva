@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2165495</dcterms:identifier>
+    <dcterms:title>Law School Class of 1924</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:description>Those pictured include:  Edmund M. Wilson, Millard H. Patterson, Hawthorne D. Battle, Charles C. Carlin, Jr., John F. Galleher, William R. Seward, Herman L. Bennett, James R. V. Daniel, John S. Carroll, Collins Denny, Jr., Meredith E.  Watkins, Edward H. Rowe, Jr., Bolling C. Stanley, Leslie D. Dawson, Garland R. Hubbard, Donald W. Shriver, Douglas A. Robertson, Nelson Fell, Orval R. Davis, John A. Richards,  William Q. de Funiack, Richard D. Gilliam, Jr., Hugh S. Cumming, Jr., Littleton M. Wickham, Martin K. Fulk, William M. Neal, Hugh B. Marsh, Armstead M. Covington, Samuel A. Reinach, Jr., John T. Baxter, John A. Slagen, Lucien M. Abbot, Marshall T. Bohannon, Alpheus W. Embry, Frank Talbott, Jr., Theodore J. Amelson, Manley P. Caldwell, William V. Frazier, Jr., Charles S. Valentine, William S. D. Woods, Richard R.  Florance, Jr., Charles E. A. Knight, Stoner M. Scott, Charles N. Hulvey, Samuel R. Cheek Jr.  Also pictured:  School of Law faculty members George B. Eager, Jr., William H. Lile, Dean Ribble, Charles A. Graves.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>sepia prints</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2165495/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2165495</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2165495/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

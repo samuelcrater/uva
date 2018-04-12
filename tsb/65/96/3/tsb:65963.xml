@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:65963</dcterms:identifier>
+    <dcterms:title>The statutes at large; being a collection of all the laws of Virginia, from the first session of the legislature, in the year 1619. Published pursuant to an act of the General assembly of Virginia, passed on the fifth day of February one thousand eight hundred and eight ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Virginia</dcterms:creator>
+    <dcterms:created>1809</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>13 v. 21-23 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by and for Samuel Pleasants, junior, printer to the commonwealth</dcterms:publisher>
+    <dcterms:subject>Law</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65963/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65963</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2437980/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

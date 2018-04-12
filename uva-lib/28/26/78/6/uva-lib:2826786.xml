@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2826786</dcterms:identifier>
+    <dcterms:title>Oto-ophthalmoscope in case</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bausch &amp; Lomb Optical Company</dcterms:creator>
+    <dcterms:created>1915/1945</dcterms:created>
+    <dcterms:description>The case is lined with blue velvet and has a blue ribbon on the inside of the lid which is marked "Bausch &amp; Lomb." The metal clasp is broken. The case holds the battery (01787a); the head assembly (01787b); the otoscope (01787c) which is engraved "Arc-Vue U.S. Pat. 2,184,414"; one speculum (01787d); one light bulb (01787f); and Directions for Use with a tag from the University Book Store.</dcterms:description>
+    <dcterms:medium>plastic (organic material)</dcterms:medium>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>paper (fiber product)</dcterms:medium>
+    <dcterms:extent>6.7 x 20.5 x 12 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2826786/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826786</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2826786/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

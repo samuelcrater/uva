@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:600024</dcterms:identifier>
+    <dcterms:title>Nouvelle France politique, 1919</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>La Rougery, Blondel.</dcterms:creator>
+    <dcterms:created>1919</dcterms:created>
+    <dcterms:extent>1 map : col. ; 67 x 66 cm. on sheet 69 x 71 cm.</dcterms:extent>
+    <dcterms:publisher>Dressée et gravée par Ed. Blondel La Rougery, Éditeur Géographe ,. Rue St. Lazare</dcterms:publisher>
+    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:language>fre</dcterms:language>
+    <edm:hasType>map</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600024/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600024</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1096791/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

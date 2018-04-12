@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:770519</dcterms:identifier>
+    <dcterms:title>Uncle Tom's Cabin! At Vestry of M.E. Church, Hudson, Wednesday &amp; Thursday evenings, Feb. 26th and 27th, 1879. : A realistic picture of life in the South twenty years ago. ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1879</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 sheet ([1] p.) ; 35 x 20 cm.</dcterms:extent>
+    <dcterms:publisher>Methodist Episcopal Church</dcterms:publisher>
+    <dcterms:subject>Stage history</dcterms:subject>
+    <dcterms:subject>Church fund raising</dcterms:subject>
+    <dcterms:subject>Stowe, Harriet Beecher/</dcterms:subject>
+    <dcterms:subject>Stowe, Harriet Beecher/</dcterms:subject>
+    <dcterms:subject>Methodist Episcopal Church (Hudson, N.H.)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>Broadsides-New Hampshire-Hudson-1879.</edm:hasType>
+    <edm:hasType>Playbills-New Hampshire-Hudson-1879.</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770519/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770519</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:957750/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

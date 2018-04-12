@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2532391</dcterms:identifier>
+    <dcterms:title>Pewter pitcher</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1850/1899</dcterms:created>
+    <dcterms:description>The hinge for the lid is attached to the pitcher's handle. Inside is a paper with Jefferson Randolph Kean's address on it and writing which states: 
+      "Heavy Pewter pitcher, with attached lid, about 7 in high and 4 in in diameter, originally at hospital of French Panama Canal Company; 
+      presented to Col. J.R. Kean, Med. Corps, U.S. Army, in early years of 20th century, during a visit by him to the Panama Canal Zone."</dcterms:description>
+    <dcterms:medium>pewterware</dcterms:medium>
+    <dcterms:extent>19 x 10.5 x 15 cm</dcterms:extent>
+    <dcterms:subject>Containers</dcterms:subject>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <edm:hasType>pitchers (vessels)</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532391/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532391</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2532391/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

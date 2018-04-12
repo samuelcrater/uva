@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1067774</dcterms:identifier>
+    <dcterms:title>Album of Currier &amp; Ives' Civil War lithographs</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1861/1863</dcterms:created>
+    <dcterms:description>A collection of small folio hand-colored lithographs of different scenes of Civil War Engagements.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 album (40 prints) : lithographs, hand-colored ; 41 cm</dcterms:extent>
+    <dcterms:publisher>Currier &amp; Ives</dcterms:publisher>
+    <dcterms:subject>Bull Run, 1st Battle of, Va., 1861</dcterms:subject>
+    <dcterms:subject>Cedar Mountain, Battle of, Va., 1862</dcterms:subject>
+    <dcterms:subject>Chancellorsville, Battle of, Chancellorsville, Va., 1863</dcterms:subject>
+    <dcterms:subject>Chickamauga, Battle of, Ga., 1863</dcterms:subject>
+    <dcterms:subject>Corinth, Battle of, Corinth, Miss., 1862</dcterms:subject>
+    <dcterms:subject>Fair Oaks, Battle of, Va., 1862</dcterms:subject>
+    <dcterms:subject>Fort Donelson, Battle of, Tenn., 1862</dcterms:subject>
+    <dcterms:subject>Fredericksburg, Battle of, Fredericksburg, Va., 1862</dcterms:subject>
+    <dcterms:subject>Gettysburg, Battle of, Gettysburg, Pa., 1863</dcterms:subject>
+    <dcterms:subject>Hampton Roads, Battle of, Va., 1862</dcterms:subject>
+    <dcterms:subject>Kernstown, 1st Battle of, Winchester, Va., 1862</dcterms:subject>
+    <dcterms:subject>Mill Springs, Battle of, Ky., 1862</dcterms:subject>
+    <dcterms:subject>Morris Island, Battle of, S.C., 1863 (July 10-September 7)</dcterms:subject>
+    <dcterms:subject>Shiloh, Battle of, Tenn., 1862</dcterms:subject>
+    <dcterms:subject>Stones River, Battle of, Murfreesboro, Tenn., 1862-1863</dcterms:subject>
+    <dcterms:subject>Williamsburg, Battle of, Williamsburg, Va., 1862</dcterms:subject>
+    <dcterms:subject>Bombardment</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
+    <dcterms:subject>Military personnel</dcterms:subject>
+    <dcterms:subject>Naval warfare</dcterms:subject>
+    <dcterms:subject>Naval warfare</dcterms:subject>
+    <dcterms:subject>Lithography, American</dcterms:subject>
+    <dcterms:subject>Lithography, American</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Siege, 1861</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Farragut, David Glasgow/</dcterms:subject>
+    <dcterms:subject>Grant, Ulysses S. (Ulysses Simpson)/</dcterms:subject>
+    <dcterms:subject>Shaw, Robert Gould/</dcterms:subject>
+    <dcterms:subject>Stoneman, George/</dcterms:subject>
+    <dcterms:subject>United States./</dcterms:subject>
+    <dcterms:subject>Army./</dcterms:subject>
+    <dcterms:subject>Massachusetts Infantry Regiment, 54th (1863-1865)/</dcterms:subject>
+    <dcterms:subject>Merrimack (Frigate)/</dcterms:subject>
+    <dcterms:subject>Monitor (Ironclad)/</dcterms:subject>
+    <dcterms:subject>Virginia (Ironclad)/</dcterms:subject>
+    <dcterms:subject>Merrimack (Frigate)/</dcterms:subject>
+    <dcterms:subject>Monitor (Ironclad)/</dcterms:subject>
+    <dcterms:subject>Virginia (Ironclad)/</dcterms:subject>
+    <dcterms:subject>American Civil War (1861-1865)/</dcterms:subject>
+    <dcterms:subject>Hampton Roads, Battle of (Virginia : 1862)</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>New York</dcterms:spatial>
+    <dcterms:spatial>New York</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <edm:hasType>art reproduction</edm:hasType>
+    <edm:hasType>Lithographs-Hand-colored-1850-1910.</edm:hasType>
+    <edm:hasType>Drawings-American-1850-1910.</edm:hasType>
+    <edm:hasType>Lithographs-Hand-colored-1860-1870.</edm:hasType>
+    <edm:hasType>History.</edm:hasType>
+    <edm:hasType>Pictorial works.</edm:hasType>
+    <edm:hasType>Specimens.</edm:hasType>
+    <dcterms:temporal>1800 - 1899</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>1860-1870</dcterms:temporal>
+    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:temporal>Siege, 1863</dcterms:temporal>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:temporal>Siege, 1863</dcterms:temporal>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1067774/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1067774</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1074452/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

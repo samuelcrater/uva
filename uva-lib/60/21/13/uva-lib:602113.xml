@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:602113</dcterms:identifier>
+    <dcterms:title>Novvelles inventions povr bien bastir et a petits fraiz, trovvees n'Agveres .</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>L'Orme, Philibert de, 1515?-1570</dcterms:creator>
+    <dcterms:created>1576</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[10], 94, [6] p. illus., diagrs. 34 x 22 cm.</dcterms:extent>
+    <dcterms:publisher>De l'Imprimerie de Hierosme de Marnes, &amp; Guillaume Cauellat</dcterms:publisher>
+    <dcterms:subject>Architecture</dcterms:subject>
+    <dcterms:subject>Building</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:602113/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:602113</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:602123/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

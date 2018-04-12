@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:64196</dcterms:identifier>
+    <dcterms:title>La France parlementaire (1834-1851); œuvres oratoires et écrits politiques,</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Lamartine, Alphonse de, 1790-1869</dcterms:creator>
+    <dcterms:created>1864/1865</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>6 v. 23 cm.</dcterms:extent>
+    <dcterms:publisher>A. Lacroix, Verboeckhoven</dcterms:publisher>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:subject>Politics and government</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:temporal>Louis Philip, 1830-1848</dcterms:temporal>
+    <dcterms:temporal>Second Republic, 1848-1852</dcterms:temporal>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64196/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64196</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1892065/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

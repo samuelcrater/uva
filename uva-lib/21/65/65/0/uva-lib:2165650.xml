@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2165650</dcterms:identifier>
+    <dcterms:title>Virginia Law Review 1950-1951</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
+    <dcterms:created>1950/1951</dcterms:created>
+    <dcterms:description>Including members of the Class of 1951 and Class 0f 1952.  Charles W. Berl, Jr., Martin V. Bostetter, Leonard Braman, Robert D. Bruce, Leroy T. Canoles, Jr., Joseph C. Carter, Jr., James E. Coleman, Jr., Stuart L Craig, Eldon H. Crowell, Endicott P. Davison, Robert E. L. DeButts, James L. Dooley, Robert Sears Dorsey, Robert Stanley Dorsey, Philip M. Drake, Albert W. Driver, Jr., Livingston Fairbank, Jr., Benjamin C. Flannagan, IV, Harvey W. Fort, Alan S. Gaynor, Marie S. Geddy, Vernon M. Geddy, Jr., Margaret E. Gordon, John D. Gray, David C. Green, Clarence F. Hicks, Edwin P. Hirsch, Decatur J. Holcombe, III, Jack P. Jefferies, Paul M. Lipkin, Pierce N. McCreary, L. Kent McElwain, Thomas V. Monahan, John H. Mudd, Oliver J. Neibel, Jr., Nelson T. Overton, Robert H. Patterson, Billups P. Percy, 
+Alfred V. Prather, James W. Riddell, Raymond D. Saxe, Jr., Drayton T. Scott, Henry K. Skeele, George R. C. Stuart, Richard P. Taylor, Warren I. Titus, Jr., Charles A. Via, Jr.,
+Richard E. Walck, Edward P. Webster, Joseph H. Young.</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Faculty</dcterms:subject>
+    <dcterms:subject>Students</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2165650/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2165650</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2165650/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

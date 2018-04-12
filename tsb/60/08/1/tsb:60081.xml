@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:60081</dcterms:identifier>
+    <dcterms:title>A new discovery of a vast country in America, extending above four thousand miles, between New France and New Mexico : with a description of the Great Lakes, cataracts, rivers, plants, and animals, also the manners, customs, and languages of the several native Indians, and the advantage of commerce with those different nations : with a Continuation, giving an account of the attempts of the Sieur de La Salle upon the mines of St. Barbe, &amp;c., the taking of Quebec by the English, with the advantages of a shorter cut to China and Japan : both parts illustrated with maps and figures, and dedicated to His Majesty K. William</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hennepin, Louis, active 17th century</dcterms:creator>
+    <dcterms:created>1698</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[24], 355, [33], 48, 45-178 p., [8] folded leaves of plates : ill., maps ; 20 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>Printed for M. Bentley, J. Tonson, H. Bonwick, T. Goodwin, and S. Manship</dcterms:publisher>
+    <dcterms:subject>Indians of North America</dcterms:subject>
+    <dcterms:subject>Discovery and exploration</dcterms:subject>
+    <dcterms:subject>Discovery and exploration</dcterms:subject>
+    <dcterms:subject>Discovery and exploration</dcterms:subject>
+    <dcterms:subject>History</dcterms:subject>
+    <dcterms:subject>Description and travel</dcterms:subject>
+    <dcterms:subject>La Salle, Robert Cavelier</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>Great Britain</dcterms:spatial>
+    <dcterms:spatial>England</dcterms:spatial>
+    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:60081/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:60081</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2175117/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

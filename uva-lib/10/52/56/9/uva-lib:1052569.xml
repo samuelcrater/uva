@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:1052569</dcterms:identifier>
+    <dcterms:title>La guide des chemins de France</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Estienne, Charles, 1504-approximately 1564</dcterms:creator>
+    <dcterms:created>1553</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 pts. in 1 v. (256, 113, [5] p.) ; 15 cm. (8vo)</dcterms:extent>
+    <dcterms:publisher>Chez Charles Estienne, Imprimeur du Roy, 1553.</dcterms:publisher>
+    <dcterms:subject>Roads</dcterms:subject>
+    <dcterms:subject>Rivers</dcterms:subject>
+    <dcterms:subject>Description and travel</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:spatial>France</dcterms:spatial>
+    <dcterms:spatial>Paris</dcterms:spatial>
+    <dcterms:language>frm</dcterms:language>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1052569/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1052569</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1058641/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

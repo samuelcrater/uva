@@ -16,7 +16,7 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
     <dcterms:subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009985">Sports</dcterms:subject>
-    <dcterms:subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000828">Basketball</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000841">Basketball</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002210">Coaches (Athletics)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79053979">University of Virginia/</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
@@ -27,7 +27,7 @@
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
     <edm:hasType valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721">Photographs</edm:hasType>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64895/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64895</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1571123/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

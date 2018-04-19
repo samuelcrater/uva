@@ -25,7 +25,7 @@
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
     <edm:hasType valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721">Photographs</edm:hasType>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:60459/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:60459</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1530967/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

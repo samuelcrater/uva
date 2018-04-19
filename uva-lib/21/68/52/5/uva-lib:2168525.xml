@@ -27,7 +27,7 @@
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
     <edm:hasType>black-and-white photographs</edm:hasType>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2168525/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2168525</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2168525/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>
